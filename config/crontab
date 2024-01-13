@@ -1,0 +1,2 @@
+# Runs everyday at 7AM
+0 7 * * * cd /media/pi/transcend/workspace/QuoteOfTheDay && /usr/bin/python main.py && git add --all && git commit -m "Update success on `date`" && git push
