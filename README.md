@@ -1,5 +1,5 @@
 ### Quote of the day
-Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
+Be true to your work, your word, and your friend. - Henry David Thoreau
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -12,3 +12,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Jan 15 15:31:45 2024 | Our truest life is when we are in dreams awake. - Henry David Thoreau
 - Mon Jan 15 15:32:17 2024 | Eating rice cakes is like chewing on a foam coffee cup, only less filling. - Dave Barry
 - Mon Jan 15 15:32:43 2024 | Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
+- Mon Jan 15 15:33:01 2024 | Be true to your work, your word, and your friend. - Henry David Thoreau
