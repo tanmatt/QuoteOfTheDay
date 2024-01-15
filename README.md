@@ -1,5 +1,5 @@
 ### Quote of the day
-Eating rice cakes is like chewing on a foam coffee cup, only less filling. - Dave Barry
+Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -11,3 +11,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Jan 15 07:00:07 2024 | Violence is the last refuge of the incompetent. - Isaac Asimov
 - Mon Jan 15 15:31:45 2024 | Our truest life is when we are in dreams awake. - Henry David Thoreau
 - Mon Jan 15 15:32:17 2024 | Eating rice cakes is like chewing on a foam coffee cup, only less filling. - Dave Barry
+- Mon Jan 15 15:32:43 2024 | Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
