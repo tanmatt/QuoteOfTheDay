@@ -1,5 +1,5 @@
 ### Quote of the day
-Our truest life is when we are in dreams awake. - Henry David Thoreau
+Eating rice cakes is like chewing on a foam coffee cup, only less filling. - Dave Barry
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -10,3 +10,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Jan 14 07:00:07 2024 | I have a lot of things to prove to myself. One is that I can live my life fearlessly. - Oprah Winfrey
 - Mon Jan 15 07:00:07 2024 | Violence is the last refuge of the incompetent. - Isaac Asimov
 - Mon Jan 15 15:31:45 2024 | Our truest life is when we are in dreams awake. - Henry David Thoreau
+- Mon Jan 15 15:32:17 2024 | Eating rice cakes is like chewing on a foam coffee cup, only less filling. - Dave Barry
