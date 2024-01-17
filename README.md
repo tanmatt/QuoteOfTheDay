@@ -1,5 +1,5 @@
 ### Quote of the day
-I'd rather be hated for who I am, than loved for who I am not. - Kurt Cobain
+One of life's greatest pleasures is accomplishing what others say you cannot. - Anonymous
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -15,3 +15,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Jan 15 15:33:01 2024 | Be true to your work, your word, and your friend. - Henry David Thoreau
 - Mon Jan 15 15:34:12 2024 | No man should marry until he has studied anatomy and dissected at least one woman. - Honore de Balzac
 - Tue Jan 16 07:00:07 2024 | I'd rather be hated for who I am, than loved for who I am not. - Kurt Cobain
+- Wed Jan 17 07:00:07 2024 | One of life's greatest pleasures is accomplishing what others say you cannot. - Anonymous
