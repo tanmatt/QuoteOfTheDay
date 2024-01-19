@@ -1,5 +1,5 @@
 ### Quote of the day
-Nixon is one of the few in the history of this country to run for high office talking out of both sides of his mouth at the same time and lying out of both sides. - Harry S. Truman
+If you want to increase your success rate, double your failure rate. - Thomas J. Watson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -17,3 +17,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jan 16 07:00:07 2024 | I'd rather be hated for who I am, than loved for who I am not. - Kurt Cobain
 - Wed Jan 17 07:00:07 2024 | One of life's greatest pleasures is accomplishing what others say you cannot. - Anonymous
 - Thu Jan 18 07:00:08 2024 | Nixon is one of the few in the history of this country to run for high office talking out of both sides of his mouth at the same time and lying out of both sides. - Harry S. Truman
+- Fri Jan 19 07:00:12 2024 | If you want to increase your success rate, double your failure rate. - Thomas J. Watson
