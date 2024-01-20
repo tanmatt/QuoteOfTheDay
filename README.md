@@ -1,5 +1,5 @@
 ### Quote of the day
-If you want to increase your success rate, double your failure rate. - Thomas J. Watson
+I have found little that is 'good' about human beings on the whole. In my experience most of them are trash, no matter whether they publicly subscribe to this or that ethical doctrine or to none at all. That is something that you cannot say aloud, or perhaps even think. - Sigmund Freud
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -18,3 +18,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Jan 17 07:00:07 2024 | One of life's greatest pleasures is accomplishing what others say you cannot. - Anonymous
 - Thu Jan 18 07:00:08 2024 | Nixon is one of the few in the history of this country to run for high office talking out of both sides of his mouth at the same time and lying out of both sides. - Harry S. Truman
 - Fri Jan 19 07:00:12 2024 | If you want to increase your success rate, double your failure rate. - Thomas J. Watson
+- Sat Jan 20 07:00:08 2024 | I have found little that is 'good' about human beings on the whole. In my experience most of them are trash, no matter whether they publicly subscribe to this or that ethical doctrine or to none at all. That is something that you cannot say aloud, or perhaps even think. - Sigmund Freud
