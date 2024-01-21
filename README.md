@@ -1,5 +1,5 @@
 ### Quote of the day
-I have found little that is 'good' about human beings on the whole. In my experience most of them are trash, no matter whether they publicly subscribe to this or that ethical doctrine or to none at all. That is something that you cannot say aloud, or perhaps even think. - Sigmund Freud
+My goal is not to fail fast. My goal is to succeed over the long run. They are not the same thing. - Marc Andreessen
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -19,3 +19,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Jan 18 07:00:08 2024 | Nixon is one of the few in the history of this country to run for high office talking out of both sides of his mouth at the same time and lying out of both sides. - Harry S. Truman
 - Fri Jan 19 07:00:12 2024 | If you want to increase your success rate, double your failure rate. - Thomas J. Watson
 - Sat Jan 20 07:00:08 2024 | I have found little that is 'good' about human beings on the whole. In my experience most of them are trash, no matter whether they publicly subscribe to this or that ethical doctrine or to none at all. That is something that you cannot say aloud, or perhaps even think. - Sigmund Freud
+- Sun Jan 21 07:00:07 2024 | My goal is not to fail fast. My goal is to succeed over the long run. They are not the same thing. - Marc Andreessen
