@@ -1,5 +1,5 @@
 ### Quote of the day
-Beware how you take away hope from another human being. - Oliver Wendell Holmes
+Old age is fifteen years older than I am. - Oliver Wendell Holmes
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -21,3 +21,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Jan 20 07:00:08 2024 | I have found little that is 'good' about human beings on the whole. In my experience most of them are trash, no matter whether they publicly subscribe to this or that ethical doctrine or to none at all. That is something that you cannot say aloud, or perhaps even think. - Sigmund Freud
 - Sun Jan 21 07:00:07 2024 | My goal is not to fail fast. My goal is to succeed over the long run. They are not the same thing. - Marc Andreessen
 - Mon Jan 22 07:00:07 2024 | Beware how you take away hope from another human being. - Oliver Wendell Holmes
+- Tue Jan 23 07:00:07 2024 | Old age is fifteen years older than I am. - Oliver Wendell Holmes
