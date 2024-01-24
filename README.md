@@ -1,5 +1,5 @@
 ### Quote of the day
-Old age is fifteen years older than I am. - Oliver Wendell Holmes
+Nothing works better than just improving your product. - Joel Spolsky
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -22,3 +22,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Jan 21 07:00:07 2024 | My goal is not to fail fast. My goal is to succeed over the long run. They are not the same thing. - Marc Andreessen
 - Mon Jan 22 07:00:07 2024 | Beware how you take away hope from another human being. - Oliver Wendell Holmes
 - Tue Jan 23 07:00:07 2024 | Old age is fifteen years older than I am. - Oliver Wendell Holmes
+- Wed Jan 24 07:00:07 2024 | Nothing works better than just improving your product. - Joel Spolsky
