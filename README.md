@@ -1,5 +1,5 @@
 ### Quote of the day
-Knowledge comes by taking things apart, but wisdom comes by putting things together. - John A. Morrison
+No speech can stain what is noble by nature. - Sophocles
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -24,3 +24,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jan 23 07:00:07 2024 | Old age is fifteen years older than I am. - Oliver Wendell Holmes
 - Wed Jan 24 07:00:07 2024 | Nothing works better than just improving your product. - Joel Spolsky
 - Fri Jan 26 07:00:07 2024 | Knowledge comes by taking things apart, but wisdom comes by putting things together. - John A. Morrison
+- Sat Jan 27 07:00:12 2024 | No speech can stain what is noble by nature. - Sophocles
