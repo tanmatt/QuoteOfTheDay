@@ -1,5 +1,5 @@
 ### Quote of the day
-Every saint has a past and every sinner has a future. - Oscar Wilde
+The greatest thing about being a scientist is you never have to grow up. - Neil deGrasse Tyson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -26,3 +26,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Jan 26 07:00:07 2024 | Knowledge comes by taking things apart, but wisdom comes by putting things together. - John A. Morrison
 - Sat Jan 27 07:00:12 2024 | No speech can stain what is noble by nature. - Sophocles
 - Sun Jan 28 07:00:06 2024 | Every saint has a past and every sinner has a future. - Oscar Wilde
+- Mon Jan 29 07:00:05 2024 | The greatest thing about being a scientist is you never have to grow up. - Neil deGrasse Tyson
