@@ -1,5 +1,5 @@
 ### Quote of the day
-The greatest thing about being a scientist is you never have to grow up. - Neil deGrasse Tyson
+Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -27,3 +27,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Jan 27 07:00:12 2024 | No speech can stain what is noble by nature. - Sophocles
 - Sun Jan 28 07:00:06 2024 | Every saint has a past and every sinner has a future. - Oscar Wilde
 - Mon Jan 29 07:00:05 2024 | The greatest thing about being a scientist is you never have to grow up. - Neil deGrasse Tyson
+- Tue Jan 30 07:00:08 2024 | Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
