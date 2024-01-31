@@ -1,5 +1,5 @@
 ### Quote of the day
-Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
+Hegel was right when he said that we learn from history; that man can never learn anything from history. - George Bernard Shaw
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -28,3 +28,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Jan 28 07:00:06 2024 | Every saint has a past and every sinner has a future. - Oscar Wilde
 - Mon Jan 29 07:00:05 2024 | The greatest thing about being a scientist is you never have to grow up. - Neil deGrasse Tyson
 - Tue Jan 30 07:00:08 2024 | Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
+- Wed Jan 31 07:00:07 2024 | Hegel was right when he said that we learn from history; that man can never learn anything from history. - George Bernard Shaw
