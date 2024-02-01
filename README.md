@@ -1,5 +1,5 @@
 ### Quote of the day
-Hegel was right when he said that we learn from history; that man can never learn anything from history. - George Bernard Shaw
+Natural ability without education has more often attained to glory and virtue than education without natural ability. - Marcus Tullius Cicero
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -29,3 +29,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Jan 29 07:00:05 2024 | The greatest thing about being a scientist is you never have to grow up. - Neil deGrasse Tyson
 - Tue Jan 30 07:00:08 2024 | Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
 - Wed Jan 31 07:00:07 2024 | Hegel was right when he said that we learn from history; that man can never learn anything from history. - George Bernard Shaw
+- Thu Feb  1 07:00:07 2024 | Natural ability without education has more often attained to glory and virtue than education without natural ability. - Marcus Tullius Cicero
