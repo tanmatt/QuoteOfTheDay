@@ -1,5 +1,5 @@
 ### Quote of the day
-Natural ability without education has more often attained to glory and virtue than education without natural ability. - Marcus Tullius Cicero
+I think the biggest disease the world suffers from in this day and age is the disease of people feeling unloved. I know that I can give love for a minute, for half an hour, for a day, for a month, but I can give. I am very happy to do that, I want to do that. - Princess Diana
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -30,3 +30,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jan 30 07:00:08 2024 | Of course, to have money is just great because you can do what you think is important to you. I always was a rich person because money's not related to happiness. - Paulo Coelho
 - Wed Jan 31 07:00:07 2024 | Hegel was right when he said that we learn from history; that man can never learn anything from history. - George Bernard Shaw
 - Thu Feb  1 07:00:07 2024 | Natural ability without education has more often attained to glory and virtue than education without natural ability. - Marcus Tullius Cicero
+- Fri Feb  2 07:00:07 2024 | I think the biggest disease the world suffers from in this day and age is the disease of people feeling unloved. I know that I can give love for a minute, for half an hour, for a day, for a month, but I can give. I am very happy to do that, I want to do that. - Princess Diana
