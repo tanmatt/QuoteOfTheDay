@@ -1,5 +1,5 @@
 ### Quote of the day
-Proverbs are always platitudes until you have personally experienced the truth of them. - Aldous Huxley
+Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game. - Voltaire
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -33,3 +33,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Feb  2 07:00:07 2024 | I think the biggest disease the world suffers from in this day and age is the disease of people feeling unloved. I know that I can give love for a minute, for half an hour, for a day, for a month, but I can give. I am very happy to do that, I want to do that. - Princess Diana
 - Sat Feb  3 07:00:07 2024 | It is utterly false and cruelly arbitrary to put all the play and learning into childhood, all the work into middle age, and all the regrets into old age. - Margaret Mead
 - Thu Feb  8 07:00:07 2024 | Proverbs are always platitudes until you have personally experienced the truth of them. - Aldous Huxley
+- Mon Feb 12 07:00:07 2024 | Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game. - Voltaire
