@@ -1,5 +1,5 @@
 ### Quote of the day
-The best thing about the future is that it comes one day at a time. - Abraham Lincoln
+The aim of art is to represent not the outward appearance of things, but their inward significance. - Aristotle
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -35,3 +35,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Feb  8 07:00:07 2024 | Proverbs are always platitudes until you have personally experienced the truth of them. - Aldous Huxley
 - Mon Feb 12 07:00:07 2024 | Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game. - Voltaire
 - Tue Feb 13 07:00:07 2024 | The best thing about the future is that it comes one day at a time. - Abraham Lincoln
+- Wed Feb 14 07:00:07 2024 | The aim of art is to represent not the outward appearance of things, but their inward significance. - Aristotle
