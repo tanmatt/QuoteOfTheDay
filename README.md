@@ -1,5 +1,5 @@
 ### Quote of the day
-The aim of art is to represent not the outward appearance of things, but their inward significance. - Aristotle
+You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life. - Albert Camus
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -36,3 +36,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Feb 12 07:00:07 2024 | Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game. - Voltaire
 - Tue Feb 13 07:00:07 2024 | The best thing about the future is that it comes one day at a time. - Abraham Lincoln
 - Wed Feb 14 07:00:07 2024 | The aim of art is to represent not the outward appearance of things, but their inward significance. - Aristotle
+- Thu Feb 15 07:00:07 2024 | You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life. - Albert Camus
