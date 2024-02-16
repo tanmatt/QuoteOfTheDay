@@ -1,5 +1,5 @@
 ### Quote of the day
-You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life. - Albert Camus
+Let it be your constant method to look into the design of people's actions, and see what they would be at, as often as it is practicable and to make this custom the more significant, practice it first upon yourself. - Marcus Aurelius
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -37,3 +37,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Feb 13 07:00:07 2024 | The best thing about the future is that it comes one day at a time. - Abraham Lincoln
 - Wed Feb 14 07:00:07 2024 | The aim of art is to represent not the outward appearance of things, but their inward significance. - Aristotle
 - Thu Feb 15 07:00:07 2024 | You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life. - Albert Camus
+- Fri Feb 16 07:00:06 2024 | Let it be your constant method to look into the design of people's actions, and see what they would be at, as often as it is practicable and to make this custom the more significant, practice it first upon yourself. - Marcus Aurelius
