@@ -1,5 +1,5 @@
 ### Quote of the day
-Only work half a day. It doesn't matter which half you work -- the first 12 hours or the second 12 hours. - Kemmons Wilson
+I have long known that it is part of God's plan for me to spend a little time with each of the most stupid people on earth. - Bill Bryson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -40,3 +40,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Feb 16 07:00:06 2024 | Let it be your constant method to look into the design of people's actions, and see what they would be at, as often as it is practicable and to make this custom the more significant, practice it first upon yourself. - Marcus Aurelius
 - Sat Feb 17 07:00:06 2024 | Think of all the beauty still left around you and be happy. - Anne Frank
 - Sun Feb 18 07:00:12 2024 | Only work half a day. It doesn't matter which half you work -- the first 12 hours or the second 12 hours. - Kemmons Wilson
+- Mon Feb 19 07:00:07 2024 | I have long known that it is part of God's plan for me to spend a little time with each of the most stupid people on earth. - Bill Bryson
