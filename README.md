@@ -1,5 +1,5 @@
 ### Quote of the day
-Poetry is the synthesis of hyacinths and biscuits. - Carl Sandburg
+The best way to create the future is to: Act. Learn. Build. Repeat. - AV
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -42,3 +42,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Feb 18 07:00:12 2024 | Only work half a day. It doesn't matter which half you work -- the first 12 hours or the second 12 hours. - Kemmons Wilson
 - Mon Feb 19 07:00:07 2024 | I have long known that it is part of God's plan for me to spend a little time with each of the most stupid people on earth. - Bill Bryson
 - Tue Feb 20 07:00:07 2024 | Poetry is the synthesis of hyacinths and biscuits. - Carl Sandburg
+- Wed Feb 21 07:00:05 2024 | The best way to create the future is to: Act. Learn. Build. Repeat. - AV
