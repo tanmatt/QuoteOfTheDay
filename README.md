@@ -1,5 +1,5 @@
 ### Quote of the day
-The best way to create the future is to: Act. Learn. Build. Repeat. - AV
+Truth is, I'll never know all there is to know about you just as you will never know all there is to know about me. Humans are by nature too complicated to be understood fully. So, we can choose either to approach our fellow human beings with suspicion or to approach them with an open mind, a dash of optimism and a great deal of candour. - Tom Hanks
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -43,3 +43,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Feb 19 07:00:07 2024 | I have long known that it is part of God's plan for me to spend a little time with each of the most stupid people on earth. - Bill Bryson
 - Tue Feb 20 07:00:07 2024 | Poetry is the synthesis of hyacinths and biscuits. - Carl Sandburg
 - Wed Feb 21 07:00:05 2024 | The best way to create the future is to: Act. Learn. Build. Repeat. - AV
+- Thu Feb 22 07:00:07 2024 | Truth is, I'll never know all there is to know about you just as you will never know all there is to know about me. Humans are by nature too complicated to be understood fully. So, we can choose either to approach our fellow human beings with suspicion or to approach them with an open mind, a dash of optimism and a great deal of candour. - Tom Hanks
