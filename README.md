@@ -1,5 +1,5 @@
 ### Quote of the day
-Truth is, I'll never know all there is to know about you just as you will never know all there is to know about me. Humans are by nature too complicated to be understood fully. So, we can choose either to approach our fellow human beings with suspicion or to approach them with an open mind, a dash of optimism and a great deal of candour. - Tom Hanks
+Never let your schooling interfere with your education. - Mark Twain
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -44,3 +44,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Feb 20 07:00:07 2024 | Poetry is the synthesis of hyacinths and biscuits. - Carl Sandburg
 - Wed Feb 21 07:00:05 2024 | The best way to create the future is to: Act. Learn. Build. Repeat. - AV
 - Thu Feb 22 07:00:07 2024 | Truth is, I'll never know all there is to know about you just as you will never know all there is to know about me. Humans are by nature too complicated to be understood fully. So, we can choose either to approach our fellow human beings with suspicion or to approach them with an open mind, a dash of optimism and a great deal of candour. - Tom Hanks
+- Fri Feb 23 07:00:08 2024 | Never let your schooling interfere with your education. - Mark Twain
