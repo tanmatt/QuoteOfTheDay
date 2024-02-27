@@ -1,5 +1,5 @@
 ### Quote of the day
-Death is the solution to all problems. No man - no problem. - Joseph Stalin
+Quality is not an act, it is a habit. - Aristotle
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -48,3 +48,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Feb 24 07:00:06 2024 | By all means let's be open-minded, but not so open-minded that our brains drop out. - Richard Dawkins
 - Sun Feb 25 07:00:05 2024 | The wise are wise only because they love. The fool are fools only because they think they can understand love. - Paulo Coelho
 - Mon Feb 26 07:00:07 2024 | Death is the solution to all problems. No man - no problem. - Joseph Stalin
+- Tue Feb 27 07:00:08 2024 | Quality is not an act, it is a habit. - Aristotle
