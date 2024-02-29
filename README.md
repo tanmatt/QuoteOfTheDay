@@ -1,5 +1,5 @@
 ### Quote of the day
-Far and away the best prize that life has to offer is the chance to work hard at work worth doing. - Theodore Roosevelt
+Freedom from effort in the present merely means that there has been effort stored up in the past. - Theodore Roosevelt
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -50,3 +50,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Feb 26 07:00:07 2024 | Death is the solution to all problems. No man - no problem. - Joseph Stalin
 - Tue Feb 27 07:00:08 2024 | Quality is not an act, it is a habit. - Aristotle
 - Wed Feb 28 07:00:05 2024 | Far and away the best prize that life has to offer is the chance to work hard at work worth doing. - Theodore Roosevelt
+- Thu Feb 29 07:00:08 2024 | Freedom from effort in the present merely means that there has been effort stored up in the past. - Theodore Roosevelt
