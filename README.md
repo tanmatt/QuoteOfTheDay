@@ -1,5 +1,5 @@
 ### Quote of the day
-Freedom from effort in the present merely means that there has been effort stored up in the past. - Theodore Roosevelt
+One cool judgment is worth a thousand hasty counsels. The thing to do is to supply light and not heat. - Woodrow Wilson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -51,3 +51,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Feb 27 07:00:08 2024 | Quality is not an act, it is a habit. - Aristotle
 - Wed Feb 28 07:00:05 2024 | Far and away the best prize that life has to offer is the chance to work hard at work worth doing. - Theodore Roosevelt
 - Thu Feb 29 07:00:08 2024 | Freedom from effort in the present merely means that there has been effort stored up in the past. - Theodore Roosevelt
+- Fri Mar  1 07:00:07 2024 | One cool judgment is worth a thousand hasty counsels. The thing to do is to supply light and not heat. - Woodrow Wilson
