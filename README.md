@@ -1,5 +1,5 @@
 ### Quote of the day
-Peace is a daily, a weekly, a monthly process, gradually changing opinions, slowly eroding old barriers, quietly building new structures. - John F. Kennedy
+Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. - Charles Mingus
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -53,3 +53,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Feb 29 07:00:08 2024 | Freedom from effort in the present merely means that there has been effort stored up in the past. - Theodore Roosevelt
 - Fri Mar  1 07:00:07 2024 | One cool judgment is worth a thousand hasty counsels. The thing to do is to supply light and not heat. - Woodrow Wilson
 - Sat Mar  2 07:00:07 2024 | Peace is a daily, a weekly, a monthly process, gradually changing opinions, slowly eroding old barriers, quietly building new structures. - John F. Kennedy
+- Sun Mar  3 07:00:09 2024 | Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. - Charles Mingus
