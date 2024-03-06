@@ -1,5 +1,5 @@
 ### Quote of the day
-Begin - to begin is half the work, let half still remain; again begin this, and thou wilt have finished. - Marcus Aurelius
+If you're going through hell, keep going. - Winston Churchill
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -56,3 +56,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Mar  3 07:00:09 2024 | Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity. - Charles Mingus
 - Mon Mar  4 07:00:07 2024 | Telling a teenager the facts of life is like giving a fish a bath. - Arnold H. Glasow
 - Tue Mar  5 07:00:08 2024 | Begin - to begin is half the work, let half still remain; again begin this, and thou wilt have finished. - Marcus Aurelius
+- Wed Mar  6 07:00:07 2024 | If you're going through hell, keep going. - Winston Churchill
