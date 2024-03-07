@@ -1,5 +1,5 @@
 ### Quote of the day
-If you're going through hell, keep going. - Winston Churchill
+Good advice is something a man gives when he is too old to set a bad example. - Francois de La Rochefoucauld
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -57,3 +57,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Mar  4 07:00:07 2024 | Telling a teenager the facts of life is like giving a fish a bath. - Arnold H. Glasow
 - Tue Mar  5 07:00:08 2024 | Begin - to begin is half the work, let half still remain; again begin this, and thou wilt have finished. - Marcus Aurelius
 - Wed Mar  6 07:00:07 2024 | If you're going through hell, keep going. - Winston Churchill
+- Thu Mar  7 07:00:06 2024 | Good advice is something a man gives when he is too old to set a bad example. - Francois de La Rochefoucauld
