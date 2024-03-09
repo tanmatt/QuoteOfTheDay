@@ -1,5 +1,5 @@
 ### Quote of the day
-Failure defeats losers, failure inspires winners - Robert T. Kiyosaki
+To his dog, every man is Napoleon; hence the constant popularity of dogs. - Aldous Huxley
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -59,3 +59,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Mar  6 07:00:07 2024 | If you're going through hell, keep going. - Winston Churchill
 - Thu Mar  7 07:00:06 2024 | Good advice is something a man gives when he is too old to set a bad example. - Francois de La Rochefoucauld
 - Fri Mar  8 07:00:08 2024 | Failure defeats losers, failure inspires winners - Robert T. Kiyosaki
+- Sat Mar  9 07:00:08 2024 | To his dog, every man is Napoleon; hence the constant popularity of dogs. - Aldous Huxley
