@@ -1,5 +1,5 @@
 ### Quote of the day
-To his dog, every man is Napoleon; hence the constant popularity of dogs. - Aldous Huxley
+If you can find a path with no obstacles, it probably doesn't lead anywhere. - Frank A. Clark
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -60,3 +60,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Mar  7 07:00:06 2024 | Good advice is something a man gives when he is too old to set a bad example. - Francois de La Rochefoucauld
 - Fri Mar  8 07:00:08 2024 | Failure defeats losers, failure inspires winners - Robert T. Kiyosaki
 - Sat Mar  9 07:00:08 2024 | To his dog, every man is Napoleon; hence the constant popularity of dogs. - Aldous Huxley
+- Sun Mar 10 07:00:08 2024 | If you can find a path with no obstacles, it probably doesn't lead anywhere. - Frank A. Clark
