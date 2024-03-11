@@ -1,5 +1,5 @@
 ### Quote of the day
-If you can find a path with no obstacles, it probably doesn't lead anywhere. - Frank A. Clark
+I am easily satisfied with the very best. - Winston Churchill
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -61,3 +61,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Mar  8 07:00:08 2024 | Failure defeats losers, failure inspires winners - Robert T. Kiyosaki
 - Sat Mar  9 07:00:08 2024 | To his dog, every man is Napoleon; hence the constant popularity of dogs. - Aldous Huxley
 - Sun Mar 10 07:00:08 2024 | If you can find a path with no obstacles, it probably doesn't lead anywhere. - Frank A. Clark
+- Mon Mar 11 07:00:07 2024 | I am easily satisfied with the very best. - Winston Churchill
