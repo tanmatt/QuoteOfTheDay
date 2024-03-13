@@ -1,5 +1,5 @@
 ### Quote of the day
-Don't find fault, find a remedy. - Henry Ford
+All difficult things have their origin in that which is easy, and great things in that which is small. - Lao Tzu
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -63,3 +63,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Mar 10 07:00:08 2024 | If you can find a path with no obstacles, it probably doesn't lead anywhere. - Frank A. Clark
 - Mon Mar 11 07:00:07 2024 | I am easily satisfied with the very best. - Winston Churchill
 - Tue Mar 12 07:00:08 2024 | Don't find fault, find a remedy. - Henry Ford
+- Wed Mar 13 07:00:06 2024 | All difficult things have their origin in that which is easy, and great things in that which is small. - Lao Tzu
