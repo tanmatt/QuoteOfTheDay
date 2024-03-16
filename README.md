@@ -1,5 +1,5 @@
 ### Quote of the day
-Music was my refuge. I could crawl into the space between the notes and curl my back to loneliness. - Maya Angelou
+In politics stupidity is not a handicap. - Napoleon Bonaparte
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -65,3 +65,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Mar 12 07:00:08 2024 | Don't find fault, find a remedy. - Henry Ford
 - Wed Mar 13 07:00:06 2024 | All difficult things have their origin in that which is easy, and great things in that which is small. - Lao Tzu
 - Thu Mar 14 07:00:08 2024 | Music was my refuge. I could crawl into the space between the notes and curl my back to loneliness. - Maya Angelou
+- Sat Mar 16 07:00:08 2024 | In politics stupidity is not a handicap. - Napoleon Bonaparte
