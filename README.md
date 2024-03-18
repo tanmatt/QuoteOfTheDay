@@ -1,5 +1,5 @@
 ### Quote of the day
-Every man must do two things alone; he must do his own believing and his own dying. - Martin Luther
+When you are enthusiastic about what you do, you feel this positive energy. It's very simple. - Paulo Coelho
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -67,3 +67,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Mar 14 07:00:08 2024 | Music was my refuge. I could crawl into the space between the notes and curl my back to loneliness. - Maya Angelou
 - Sat Mar 16 07:00:08 2024 | In politics stupidity is not a handicap. - Napoleon Bonaparte
 - Sun Mar 17 07:00:08 2024 | Every man must do two things alone; he must do his own believing and his own dying. - Martin Luther
+- Mon Mar 18 07:13:22 2024 | When you are enthusiastic about what you do, you feel this positive energy. It's very simple. - Paulo Coelho
