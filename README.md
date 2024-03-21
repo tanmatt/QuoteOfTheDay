@@ -1,5 +1,5 @@
 ### Quote of the day
-Two possibilities exist: Either we are alone in the Universe or we are not. Both are equally terrifying. - Arthur C. Clarke
+Never in the field of human conflict was so much owed by so many to so few. - Winston Churchill
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -70,3 +70,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Mar 18 07:13:22 2024 | When you are enthusiastic about what you do, you feel this positive energy. It's very simple. - Paulo Coelho
 - Tue Mar 19 07:00:04 2024 | True terror is to wake up one morning and discover that your high school class is running the country. - Kurt Vonnegut
 - Wed Mar 20 07:00:08 2024 | Two possibilities exist: Either we are alone in the Universe or we are not. Both are equally terrifying. - Arthur C. Clarke
+- Thu Mar 21 07:00:08 2024 | Never in the field of human conflict was so much owed by so many to so few. - Winston Churchill
