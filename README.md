@@ -1,5 +1,5 @@
 ### Quote of the day
-Winning is half the battle.  Losing is the other half. - Humble
+Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -73,3 +73,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Mar 21 07:00:08 2024 | Never in the field of human conflict was so much owed by so many to so few. - Winston Churchill
 - Fri Mar 22 07:00:07 2024 | Virtue is not left to stand alone. He who practices it will have neighbors. - Confucius
 - Sat Mar 23 07:00:08 2024 | Winning is half the battle.  Losing is the other half. - Humble
+- Sun Mar 24 07:00:12 2024 | Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln
