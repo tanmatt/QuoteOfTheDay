@@ -1,5 +1,5 @@
 ### Quote of the day
-Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln
+The words were on their way, and when they arrived, she would hold them in her hands like clouds, and she would ring them out like the rain. - Markus Zusak
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -74,3 +74,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Mar 22 07:00:07 2024 | Virtue is not left to stand alone. He who practices it will have neighbors. - Confucius
 - Sat Mar 23 07:00:08 2024 | Winning is half the battle.  Losing is the other half. - Humble
 - Sun Mar 24 07:00:12 2024 | Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln
+- Mon Mar 25 07:00:07 2024 | The words were on their way, and when they arrived, she would hold them in her hands like clouds, and she would ring them out like the rain. - Markus Zusak
