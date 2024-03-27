@@ -1,5 +1,5 @@
 ### Quote of the day
-Quarrels often arise in marriages when the bridal gifts are excessive. - Antisthenes
+It will be I, it will be the silence, where I am, I don't know, I'll never know, in the silence you don't know, you must go on, I can't go on, I'll go on. - Samuel Beckett
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -76,3 +76,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Mar 24 07:00:12 2024 | Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln
 - Mon Mar 25 07:00:07 2024 | The words were on their way, and when they arrived, she would hold them in her hands like clouds, and she would ring them out like the rain. - Markus Zusak
 - Tue Mar 26 07:00:08 2024 | Quarrels often arise in marriages when the bridal gifts are excessive. - Antisthenes
+- Wed Mar 27 07:00:07 2024 | It will be I, it will be the silence, where I am, I don't know, I'll never know, in the silence you don't know, you must go on, I can't go on, I'll go on. - Samuel Beckett
