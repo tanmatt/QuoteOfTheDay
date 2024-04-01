@@ -1,5 +1,5 @@
 ### Quote of the day
-The only certain freedom's in departure. - Robert Frost
+If you don't like how things are, change it! You're not a tree. - Jim Rohn
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -79,3 +79,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Mar 27 07:00:07 2024 | It will be I, it will be the silence, where I am, I don't know, I'll never know, in the silence you don't know, you must go on, I can't go on, I'll go on. - Samuel Beckett
 - Fri Mar 29 07:00:08 2024 | Win the crowd and you will win your freedom. - Proximo
 - Sun Mar 31 07:00:08 2024 | The only certain freedom's in departure. - Robert Frost
+- Mon Apr  1 07:00:08 2024 | If you don't like how things are, change it! You're not a tree. - Jim Rohn
