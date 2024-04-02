@@ -1,5 +1,5 @@
 ### Quote of the day
-If you don't like how things are, change it! You're not a tree. - Jim Rohn
+Accept nothing, challenge everything. - Anonymous
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -80,3 +80,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Mar 29 07:00:08 2024 | Win the crowd and you will win your freedom. - Proximo
 - Sun Mar 31 07:00:08 2024 | The only certain freedom's in departure. - Robert Frost
 - Mon Apr  1 07:00:08 2024 | If you don't like how things are, change it! You're not a tree. - Jim Rohn
+- Tue Apr  2 07:00:06 2024 | Accept nothing, challenge everything. - Anonymous
