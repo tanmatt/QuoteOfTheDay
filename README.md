@@ -1,5 +1,5 @@
 ### Quote of the day
-Accept nothing, challenge everything. - Anonymous
+Were there no women, men might live like gods. - Thomas Dekker
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -81,3 +81,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Mar 31 07:00:08 2024 | The only certain freedom's in departure. - Robert Frost
 - Mon Apr  1 07:00:08 2024 | If you don't like how things are, change it! You're not a tree. - Jim Rohn
 - Tue Apr  2 07:00:06 2024 | Accept nothing, challenge everything. - Anonymous
+- Wed Apr  3 07:00:08 2024 | Were there no women, men might live like gods. - Thomas Dekker
