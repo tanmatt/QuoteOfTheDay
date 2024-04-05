@@ -1,5 +1,5 @@
 ### Quote of the day
-Failure seldom stops you. What stops you is the fear of failure. - Jack Lemmon
+Forget the past. - Nelson Mandela
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -83,3 +83,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Apr  2 07:00:06 2024 | Accept nothing, challenge everything. - Anonymous
 - Wed Apr  3 07:00:08 2024 | Were there no women, men might live like gods. - Thomas Dekker
 - Thu Apr  4 07:00:08 2024 | Failure seldom stops you. What stops you is the fear of failure. - Jack Lemmon
+- Fri Apr  5 07:00:07 2024 | Forget the past. - Nelson Mandela
