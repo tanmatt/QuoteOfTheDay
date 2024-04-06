@@ -1,5 +1,5 @@
 ### Quote of the day
-Forget the past. - Nelson Mandela
+Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -84,3 +84,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Apr  3 07:00:08 2024 | Were there no women, men might live like gods. - Thomas Dekker
 - Thu Apr  4 07:00:08 2024 | Failure seldom stops you. What stops you is the fear of failure. - Jack Lemmon
 - Fri Apr  5 07:00:07 2024 | Forget the past. - Nelson Mandela
+- Sat Apr  6 07:00:08 2024 | Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
