@@ -1,5 +1,5 @@
 ### Quote of the day
-Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
+Nothing so conclusively proves a man's ability to lead others as what he does from day to day to lead himself. - Thomas J. Watson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -85,3 +85,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Apr  4 07:00:08 2024 | Failure seldom stops you. What stops you is the fear of failure. - Jack Lemmon
 - Fri Apr  5 07:00:07 2024 | Forget the past. - Nelson Mandela
 - Sat Apr  6 07:00:08 2024 | Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
+- Sun Apr  7 07:00:03 2024 | Nothing so conclusively proves a man's ability to lead others as what he does from day to day to lead himself. - Thomas J. Watson
