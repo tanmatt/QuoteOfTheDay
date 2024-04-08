@@ -1,5 +1,5 @@
 ### Quote of the day
-Nothing so conclusively proves a man's ability to lead others as what he does from day to day to lead himself. - Thomas J. Watson
+The best writing is not about the writer, the best writing is absolutely not about the writer, it's about us, it's about the reader. - Ben Okri
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -86,3 +86,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Apr  5 07:00:07 2024 | Forget the past. - Nelson Mandela
 - Sat Apr  6 07:00:08 2024 | Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
 - Sun Apr  7 07:00:03 2024 | Nothing so conclusively proves a man's ability to lead others as what he does from day to day to lead himself. - Thomas J. Watson
+- Mon Apr  8 07:00:07 2024 | The best writing is not about the writer, the best writing is absolutely not about the writer, it's about us, it's about the reader. - Ben Okri
