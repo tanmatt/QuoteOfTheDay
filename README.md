@@ -1,5 +1,5 @@
 ### Quote of the day
-The best writing is not about the writer, the best writing is absolutely not about the writer, it's about us, it's about the reader. - Ben Okri
+Happiness is nothing more than good health and a bad memory. - Albert Schweitzer
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -87,3 +87,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Apr  6 07:00:08 2024 | Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
 - Sun Apr  7 07:00:03 2024 | Nothing so conclusively proves a man's ability to lead others as what he does from day to day to lead himself. - Thomas J. Watson
 - Mon Apr  8 07:00:07 2024 | The best writing is not about the writer, the best writing is absolutely not about the writer, it's about us, it's about the reader. - Ben Okri
+- Tue Apr  9 07:00:07 2024 | Happiness is nothing more than good health and a bad memory. - Albert Schweitzer
