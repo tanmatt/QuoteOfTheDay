@@ -1,5 +1,5 @@
 ### Quote of the day
-Each problem has hidden in it an opportunity so powerful that it literally dwarfs the problem. - Joseph Sugarman
+The impulse to cruelty is, in many people, almost as violent as the impulse to sexual love - almost as violent and much more mischievous. - Aldous Huxley
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -89,3 +89,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Apr  8 07:00:07 2024 | The best writing is not about the writer, the best writing is absolutely not about the writer, it's about us, it's about the reader. - Ben Okri
 - Tue Apr  9 07:00:07 2024 | Happiness is nothing more than good health and a bad memory. - Albert Schweitzer
 - Wed Apr 10 07:00:07 2024 | Each problem has hidden in it an opportunity so powerful that it literally dwarfs the problem. - Joseph Sugarman
+- Thu Apr 11 07:00:07 2024 | The impulse to cruelty is, in many people, almost as violent as the impulse to sexual love - almost as violent and much more mischievous. - Aldous Huxley
