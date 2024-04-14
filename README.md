@@ -1,5 +1,5 @@
 ### Quote of the day
-It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come. - Dalai Lama
+The best scientist is open to experience and begins with romance - the idea that anything is possible. - Ray Bradbury
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -92,3 +92,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Apr 11 07:00:07 2024 | The impulse to cruelty is, in many people, almost as violent as the impulse to sexual love - almost as violent and much more mischievous. - Aldous Huxley
 - Fri Apr 12 07:00:08 2024 | History is written by the victors. - Winston Churchill
 - Sat Apr 13 07:00:07 2024 | It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come. - Dalai Lama
+- Sun Apr 14 07:00:07 2024 | The best scientist is open to experience and begins with romance - the idea that anything is possible. - Ray Bradbury
