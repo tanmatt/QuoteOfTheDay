@@ -1,5 +1,5 @@
 ### Quote of the day
-The best scientist is open to experience and begins with romance - the idea that anything is possible. - Ray Bradbury
+Proverbs are always platitudes until you have personally experienced the truth of them. - Aldous Huxley
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -93,3 +93,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Apr 12 07:00:08 2024 | History is written by the victors. - Winston Churchill
 - Sat Apr 13 07:00:07 2024 | It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come. - Dalai Lama
 - Sun Apr 14 07:00:07 2024 | The best scientist is open to experience and begins with romance - the idea that anything is possible. - Ray Bradbury
+- Mon Apr 15 07:00:32 2024 | Proverbs are always platitudes until you have personally experienced the truth of them. - Aldous Huxley
