@@ -1,5 +1,5 @@
 ### Quote of the day
-Proverbs are always platitudes until you have personally experienced the truth of them. - Aldous Huxley
+The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them they change and everyone looks up to them. - Confucius
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -94,3 +94,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Apr 13 07:00:07 2024 | It is very important to generate a good attitude, a good heart, as much as possible. From this, happiness in both the short term and the long term for both yourself and others will come. - Dalai Lama
 - Sun Apr 14 07:00:07 2024 | The best scientist is open to experience and begins with romance - the idea that anything is possible. - Ray Bradbury
 - Mon Apr 15 07:00:32 2024 | Proverbs are always platitudes until you have personally experienced the truth of them. - Aldous Huxley
+- Tue Apr 16 07:00:07 2024 | The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them they change and everyone looks up to them. - Confucius
