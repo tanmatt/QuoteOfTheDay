@@ -1,5 +1,5 @@
 ### Quote of the day
-Music is the mediator between the spiritual and the sensual life. - Ludwig van Beethoven
+No bird soars too high, if he soars with his own wings. - William Blake
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -98,3 +98,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Apr 17 07:00:09 2024 | A girl should be two things: classy and fabulous. - Coco Chanel
 - Thu Apr 18 07:00:07 2024 | I can't, I have too many pencils to sharpen. - David Rees
 - Fri Apr 19 07:00:05 2024 | Music is the mediator between the spiritual and the sensual life. - Ludwig van Beethoven
+- Sat Apr 20 07:00:07 2024 | No bird soars too high, if he soars with his own wings. - William Blake
