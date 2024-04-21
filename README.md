@@ -1,5 +1,5 @@
 ### Quote of the day
-No bird soars too high, if he soars with his own wings. - William Blake
+We don't make mistakes, just happy little accidents. - Bob Ross
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -99,3 +99,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Apr 18 07:00:07 2024 | I can't, I have too many pencils to sharpen. - David Rees
 - Fri Apr 19 07:00:05 2024 | Music is the mediator between the spiritual and the sensual life. - Ludwig van Beethoven
 - Sat Apr 20 07:00:07 2024 | No bird soars too high, if he soars with his own wings. - William Blake
+- Sun Apr 21 07:00:08 2024 | We don't make mistakes, just happy little accidents. - Bob Ross
