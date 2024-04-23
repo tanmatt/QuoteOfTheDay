@@ -1,5 +1,5 @@
 ### Quote of the day
-Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them. - Dalai Lama
+Animals that we eat are raised for food in the most economical way possible, and the serious food producers do it in the most humane way possible. I think anyone who is a carnivore needs to understand that meat does not originally come in these neat little packages. - Julia Child
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -101,3 +101,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Apr 20 07:00:07 2024 | No bird soars too high, if he soars with his own wings. - William Blake
 - Sun Apr 21 07:00:08 2024 | We don't make mistakes, just happy little accidents. - Bob Ross
 - Mon Apr 22 07:00:07 2024 | Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them. - Dalai Lama
+- Tue Apr 23 07:00:07 2024 | Animals that we eat are raised for food in the most economical way possible, and the serious food producers do it in the most humane way possible. I think anyone who is a carnivore needs to understand that meat does not originally come in these neat little packages. - Julia Child
