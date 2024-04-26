@@ -1,5 +1,5 @@
 ### Quote of the day
-Everyone went donuts over them - Leslie Hochsztein
+True art is characterized by an irresistible urge in the creative artist. - Albert Einstein
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -104,3 +104,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Apr 23 07:00:07 2024 | Animals that we eat are raised for food in the most economical way possible, and the serious food producers do it in the most humane way possible. I think anyone who is a carnivore needs to understand that meat does not originally come in these neat little packages. - Julia Child
 - Wed Apr 24 07:00:12 2024 | Our character is not so much the product of race and heredity as of those circumstances by which nature forms our habits, by which we are nurtured and live. - Marcus Tullius Cicero
 - Thu Apr 25 07:00:07 2024 | Everyone went donuts over them - Leslie Hochsztein
+- Fri Apr 26 07:00:07 2024 | True art is characterized by an irresistible urge in the creative artist. - Albert Einstein
