@@ -1,5 +1,5 @@
 ### Quote of the day
-Life is neither good or evil, but only a place for good and evil. - Marcus Aurelius
+Artists don't talk about art. Artists talk about work. If I have anything to say to young writers, it's stop thinking of writing as art. Think of it as work. - Paddy Chayefsky
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -106,3 +106,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Apr 25 07:00:07 2024 | Everyone went donuts over them - Leslie Hochsztein
 - Fri Apr 26 07:00:07 2024 | True art is characterized by an irresistible urge in the creative artist. - Albert Einstein
 - Sat Apr 27 07:00:07 2024 | Life is neither good or evil, but only a place for good and evil. - Marcus Aurelius
+- Sun Apr 28 07:00:08 2024 | Artists don't talk about art. Artists talk about work. If I have anything to say to young writers, it's stop thinking of writing as art. Think of it as work. - Paddy Chayefsky
