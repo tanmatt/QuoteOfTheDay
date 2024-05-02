@@ -1,5 +1,5 @@
 ### Quote of the day
-I have to be alone very often. I'd be quite happy if I spent from Saturday night until Monday morning alone in my apartment. That's how I refuel. - Audrey Hepburn
+Humor has justly been regarded as the finest perfection of poetic genius. - Thomas Carlyle
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -109,3 +109,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Apr 28 07:00:08 2024 | Artists don't talk about art. Artists talk about work. If I have anything to say to young writers, it's stop thinking of writing as art. Think of it as work. - Paddy Chayefsky
 - Mon Apr 29 07:00:08 2024 | Genius is eternal patience. - Michelangelo
 - Tue Apr 30 07:37:27 2024 | I have to be alone very often. I'd be quite happy if I spent from Saturday night until Monday morning alone in my apartment. That's how I refuel. - Audrey Hepburn
+- Thu May  2 07:00:05 2024 | Humor has justly been regarded as the finest perfection of poetic genius. - Thomas Carlyle
