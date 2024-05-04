@@ -1,5 +1,5 @@
 ### Quote of the day
-Life is neither good or evil, but only a place for good and evil. - Marcus Aurelius
+When I have a dream, I don't have a life.  I live for the dream. - Yossi Ghinsberg
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -111,3 +111,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Apr 30 07:37:27 2024 | I have to be alone very often. I'd be quite happy if I spent from Saturday night until Monday morning alone in my apartment. That's how I refuel. - Audrey Hepburn
 - Thu May  2 07:00:05 2024 | Humor has justly been regarded as the finest perfection of poetic genius. - Thomas Carlyle
 - Fri May  3 07:00:07 2024 | Life is neither good or evil, but only a place for good and evil. - Marcus Aurelius
+- Sat May  4 07:18:10 2024 | When I have a dream, I don't have a life.  I live for the dream. - Yossi Ghinsberg
