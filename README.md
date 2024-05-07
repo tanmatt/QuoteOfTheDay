@@ -1,5 +1,5 @@
 ### Quote of the day
-Hodor - Hodor
+The art of art, the glory of expression and the sunshine of the light of letters, is simplicity. - Walt Whitman
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -114,3 +114,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat May  4 07:18:10 2024 | When I have a dream, I don't have a life.  I live for the dream. - Yossi Ghinsberg
 - Sun May  5 07:00:35 2024 | Can you imagine what I would do if I could do all I can? - Sun Tzu
 - Mon May  6 07:00:36 2024 | Hodor - Hodor
+- Tue May  7 07:00:07 2024 | The art of art, the glory of expression and the sunshine of the light of letters, is simplicity. - Walt Whitman
