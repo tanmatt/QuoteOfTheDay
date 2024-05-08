@@ -1,5 +1,5 @@
 ### Quote of the day
-The art of art, the glory of expression and the sunshine of the light of letters, is simplicity. - Walt Whitman
+Any man who reads too much and uses his own brain too little falls into lazy habits of thinking. - Albert Einstein
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -115,3 +115,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun May  5 07:00:35 2024 | Can you imagine what I would do if I could do all I can? - Sun Tzu
 - Mon May  6 07:00:36 2024 | Hodor - Hodor
 - Tue May  7 07:00:07 2024 | The art of art, the glory of expression and the sunshine of the light of letters, is simplicity. - Walt Whitman
+- Wed May  8 07:58:26 2024 | Any man who reads too much and uses his own brain too little falls into lazy habits of thinking. - Albert Einstein
