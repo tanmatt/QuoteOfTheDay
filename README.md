@@ -1,5 +1,5 @@
 ### Quote of the day
-The tent is a symbol of being transient.  It's a symbol of being at home, wherever you are. - Yossi Ghinsberg
+We have art in order not to die of the truth. - Friedrich Nietzsche
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -117,3 +117,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue May  7 07:00:07 2024 | The art of art, the glory of expression and the sunshine of the light of letters, is simplicity. - Walt Whitman
 - Wed May  8 07:58:26 2024 | Any man who reads too much and uses his own brain too little falls into lazy habits of thinking. - Albert Einstein
 - Thu May  9 07:00:07 2024 | The tent is a symbol of being transient.  It's a symbol of being at home, wherever you are. - Yossi Ghinsberg
+- Fri May 10 07:08:28 2024 | We have art in order not to die of the truth. - Friedrich Nietzsche
