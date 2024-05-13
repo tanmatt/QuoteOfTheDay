@@ -1,5 +1,5 @@
 ### Quote of the day
-Some men see things as they are and ask why. Others dream things that never were and ask why not. - George Bernard Shaw
+Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young. - Henry Ford
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -120,3 +120,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri May 10 07:08:28 2024 | We have art in order not to die of the truth. - Friedrich Nietzsche
 - Sat May 11 07:11:26 2024 | Governing a great nation is like cooking a small fish - too much handling will spoil it. - Lao Tzu
 - Sun May 12 07:23:47 2024 | Some men see things as they are and ask why. Others dream things that never were and ask why not. - George Bernard Shaw
+- Mon May 13 07:05:14 2024 | Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young. - Henry Ford
