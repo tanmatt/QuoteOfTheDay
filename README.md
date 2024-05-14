@@ -1,5 +1,5 @@
 ### Quote of the day
-Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young. - Henry Ford
+I wake up every morning at nine and grab for the morning paper. Then I look at the obituary page. If my name is not on it, I get up. - Benjamin Franklin
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -121,3 +121,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat May 11 07:11:26 2024 | Governing a great nation is like cooking a small fish - too much handling will spoil it. - Lao Tzu
 - Sun May 12 07:23:47 2024 | Some men see things as they are and ask why. Others dream things that never were and ask why not. - George Bernard Shaw
 - Mon May 13 07:05:14 2024 | Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young. - Henry Ford
+- Tue May 14 07:00:06 2024 | I wake up every morning at nine and grab for the morning paper. Then I look at the obituary page. If my name is not on it, I get up. - Benjamin Franklin
