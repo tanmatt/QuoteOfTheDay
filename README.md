@@ -1,5 +1,5 @@
 ### Quote of the day
-When marrying, ask yourself this question: Do you believe that you will be able to converse well with this person into your old age? Everything else in marriage is transitory. - Friedrich Nietzsche
+It is amazing how complete is the delusion that beauty is goodness. - Leo Tolstoy
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -123,3 +123,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon May 13 07:05:14 2024 | Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young. - Henry Ford
 - Tue May 14 07:00:06 2024 | I wake up every morning at nine and grab for the morning paper. Then I look at the obituary page. If my name is not on it, I get up. - Benjamin Franklin
 - Wed May 15 07:00:08 2024 | When marrying, ask yourself this question: Do you believe that you will be able to converse well with this person into your old age? Everything else in marriage is transitory. - Friedrich Nietzsche
+- Thu May 16 07:00:06 2024 | It is amazing how complete is the delusion that beauty is goodness. - Leo Tolstoy
