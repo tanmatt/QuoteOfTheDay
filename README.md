@@ -1,5 +1,5 @@
 ### Quote of the day
-Compound interest is the eighth wonder of the world.  He who understands it, earns it ... he who doesn't ... pays it. - Albert Einstein
+One is loved because one is loved. No reason is needed for loving. - Paulo Coelho
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -126,3 +126,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu May 16 07:00:06 2024 | It is amazing how complete is the delusion that beauty is goodness. - Leo Tolstoy
 - Fri May 17 07:00:08 2024 | Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. - Steve Jobs
 - Sat May 18 07:00:08 2024 | Compound interest is the eighth wonder of the world.  He who understands it, earns it ... he who doesn't ... pays it. - Albert Einstein
+- Sun May 19 07:00:09 2024 | One is loved because one is loved. No reason is needed for loving. - Paulo Coelho
