@@ -1,5 +1,5 @@
 ### Quote of the day
-Without great solitude no serious work is possible. - Pablo Picasso
+An eye for an eye will make the whole world blind. - Vibhuti Tyagi
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -128,3 +128,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat May 18 07:00:08 2024 | Compound interest is the eighth wonder of the world.  He who understands it, earns it ... he who doesn't ... pays it. - Albert Einstein
 - Sun May 19 07:00:09 2024 | One is loved because one is loved. No reason is needed for loving. - Paulo Coelho
 - Mon May 20 07:00:08 2024 | Without great solitude no serious work is possible. - Pablo Picasso
+- Tue May 21 07:00:07 2024 | An eye for an eye will make the whole world blind. - Vibhuti Tyagi
