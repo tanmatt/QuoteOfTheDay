@@ -1,5 +1,5 @@
 ### Quote of the day
-Great acts are made up of small deeds. - Lao Tzu
+My best friend is the one who brings out the best in me. - Henry Ford
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -130,3 +130,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon May 20 07:00:08 2024 | Without great solitude no serious work is possible. - Pablo Picasso
 - Tue May 21 07:00:07 2024 | An eye for an eye will make the whole world blind. - Vibhuti Tyagi
 - Wed May 22 07:00:08 2024 | Great acts are made up of small deeds. - Lao Tzu
+- Thu May 23 07:00:04 2024 | My best friend is the one who brings out the best in me. - Henry Ford
