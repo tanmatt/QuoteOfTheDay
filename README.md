@@ -1,5 +1,5 @@
 ### Quote of the day
-Hello Test - Annie
+The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it. - Elbert Hubbard
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -132,3 +132,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed May 22 07:00:08 2024 | Great acts are made up of small deeds. - Lao Tzu
 - Thu May 23 07:00:04 2024 | My best friend is the one who brings out the best in me. - Henry Ford
 - Fri May 24 07:00:06 2024 | Hello Test - Annie
+- Sat May 25 07:00:08 2024 | The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it. - Elbert Hubbard
