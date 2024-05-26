@@ -1,5 +1,5 @@
 ### Quote of the day
-The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it. - Elbert Hubbard
+In order to find truth we must give up our prejudices, our own small trivial notions; an open receptive mind is essential. If our chalice is full of self, there is no room in it for the water of life. - Abdu'l-Baha
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -133,3 +133,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu May 23 07:00:04 2024 | My best friend is the one who brings out the best in me. - Henry Ford
 - Fri May 24 07:00:06 2024 | Hello Test - Annie
 - Sat May 25 07:00:08 2024 | The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it. - Elbert Hubbard
+- Sun May 26 07:00:07 2024 | In order to find truth we must give up our prejudices, our own small trivial notions; an open receptive mind is essential. If our chalice is full of self, there is no room in it for the water of life. - Abdu'l-Baha
