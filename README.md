@@ -1,5 +1,5 @@
 ### Quote of the day
-It is a scientific fact that your body will not absorb cholesterol if you take it from another person's plate. - Dave Barry
+Kindness is in our power, even when fondness is not. - Samuel Johnson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -135,3 +135,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat May 25 07:00:08 2024 | The line between failure and success is so fine that we scarcely know when we pass it: so fine that we are often on the line and do not know it. - Elbert Hubbard
 - Sun May 26 07:00:07 2024 | In order to find truth we must give up our prejudices, our own small trivial notions; an open receptive mind is essential. If our chalice is full of self, there is no room in it for the water of life. - Abdu'l-Baha
 - Mon May 27 07:00:08 2024 | It is a scientific fact that your body will not absorb cholesterol if you take it from another person's plate. - Dave Barry
+- Tue May 28 07:00:07 2024 | Kindness is in our power, even when fondness is not. - Samuel Johnson
