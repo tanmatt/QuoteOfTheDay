@@ -1,5 +1,5 @@
 ### Quote of the day
-There are two kinds of companies, those that work to try to charge more and those that work to charge less. We will be the second. - Jeff Bezos
+Whenever you find yourself on the side of the majority, it is time to pause and reflect. - Mark Twain
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -137,3 +137,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon May 27 07:00:08 2024 | It is a scientific fact that your body will not absorb cholesterol if you take it from another person's plate. - Dave Barry
 - Tue May 28 07:00:07 2024 | Kindness is in our power, even when fondness is not. - Samuel Johnson
 - Wed May 29 07:00:07 2024 | There are two kinds of companies, those that work to try to charge more and those that work to charge less. We will be the second. - Jeff Bezos
+- Thu May 30 07:00:07 2024 | Whenever you find yourself on the side of the majority, it is time to pause and reflect. - Mark Twain
