@@ -1,5 +1,5 @@
 ### Quote of the day
-Whenever you find yourself on the side of the majority, it is time to pause and reflect. - Mark Twain
+The wicked leader is he who the people despise. The good leader is he who the people revere. The great leader is he who the people say, 'We did it ourselves.' - Lao Tzu
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -138,3 +138,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue May 28 07:00:07 2024 | Kindness is in our power, even when fondness is not. - Samuel Johnson
 - Wed May 29 07:00:07 2024 | There are two kinds of companies, those that work to try to charge more and those that work to charge less. We will be the second. - Jeff Bezos
 - Thu May 30 07:00:07 2024 | Whenever you find yourself on the side of the majority, it is time to pause and reflect. - Mark Twain
+- Fri May 31 07:00:06 2024 | The wicked leader is he who the people despise. The good leader is he who the people revere. The great leader is he who the people say, 'We did it ourselves.' - Lao Tzu
