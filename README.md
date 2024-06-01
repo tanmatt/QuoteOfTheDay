@@ -1,5 +1,5 @@
 ### Quote of the day
-The wicked leader is he who the people despise. The good leader is he who the people revere. The great leader is he who the people say, 'We did it ourselves.' - Lao Tzu
+Concerning God, freewill and destiny: Of all that earth has been or yet may be, all that vain men imagine or believe, or hope can paint or suffering may achieve, we descanted. - Percy Bysshe Shelley
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -139,3 +139,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed May 29 07:00:07 2024 | There are two kinds of companies, those that work to try to charge more and those that work to charge less. We will be the second. - Jeff Bezos
 - Thu May 30 07:00:07 2024 | Whenever you find yourself on the side of the majority, it is time to pause and reflect. - Mark Twain
 - Fri May 31 07:00:06 2024 | The wicked leader is he who the people despise. The good leader is he who the people revere. The great leader is he who the people say, 'We did it ourselves.' - Lao Tzu
+- Sat Jun  1 07:00:05 2024 | Concerning God, freewill and destiny: Of all that earth has been or yet may be, all that vain men imagine or believe, or hope can paint or suffering may achieve, we descanted. - Percy Bysshe Shelley
