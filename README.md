@@ -1,5 +1,5 @@
 ### Quote of the day
-The less I needed the better I felt. - Charles Bukowski
+As regards the individual nature, woman is defective and misbegotten, for the active power of the male seed tends to the production of a perfect likeness in the masculine sex while the production of a woman comes from defect in the active power. - Thomas Aquinas
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -141,3 +141,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri May 31 07:00:06 2024 | The wicked leader is he who the people despise. The good leader is he who the people revere. The great leader is he who the people say, 'We did it ourselves.' - Lao Tzu
 - Sat Jun  1 07:00:05 2024 | Concerning God, freewill and destiny: Of all that earth has been or yet may be, all that vain men imagine or believe, or hope can paint or suffering may achieve, we descanted. - Percy Bysshe Shelley
 - Sun Jun  2 07:00:05 2024 | The less I needed the better I felt. - Charles Bukowski
+- Mon Jun  3 07:00:05 2024 | As regards the individual nature, woman is defective and misbegotten, for the active power of the male seed tends to the production of a perfect likeness in the masculine sex while the production of a woman comes from defect in the active power. - Thomas Aquinas
