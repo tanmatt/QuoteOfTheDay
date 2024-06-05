@@ -1,5 +1,5 @@
 ### Quote of the day
-The best scientist is open to experience and begins with romance - the idea that anything is possible. - Ray Bradbury
+Most people have never learned that one of the main aims in life is to enjoy it. - Samuel Butler
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -143,3 +143,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Jun  2 07:00:05 2024 | The less I needed the better I felt. - Charles Bukowski
 - Mon Jun  3 07:00:05 2024 | As regards the individual nature, woman is defective and misbegotten, for the active power of the male seed tends to the production of a perfect likeness in the masculine sex while the production of a woman comes from defect in the active power. - Thomas Aquinas
 - Tue Jun  4 07:00:08 2024 | The best scientist is open to experience and begins with romance - the idea that anything is possible. - Ray Bradbury
+- Wed Jun  5 07:00:07 2024 | Most people have never learned that one of the main aims in life is to enjoy it. - Samuel Butler
