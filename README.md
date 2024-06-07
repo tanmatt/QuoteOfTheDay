@@ -1,5 +1,5 @@
 ### Quote of the day
-Write it on your heart that every day is the best day in the year. - Ralph Waldo Emerson
+We are here to change. We are here to grow, develop and unfold. We are progressive beings that have infinite capacity. - Michael Beckwith
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -145,3 +145,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jun  4 07:00:08 2024 | The best scientist is open to experience and begins with romance - the idea that anything is possible. - Ray Bradbury
 - Wed Jun  5 07:00:07 2024 | Most people have never learned that one of the main aims in life is to enjoy it. - Samuel Butler
 - Thu Jun  6 07:00:07 2024 | Write it on your heart that every day is the best day in the year. - Ralph Waldo Emerson
+- Fri Jun  7 07:00:07 2024 | We are here to change. We are here to grow, develop and unfold. We are progressive beings that have infinite capacity. - Michael Beckwith
