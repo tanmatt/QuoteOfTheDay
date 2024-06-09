@@ -1,5 +1,5 @@
 ### Quote of the day
-test - hp
+Politics is a profession a serious, complicated and, in its true sense, a noble one. - Dwight D. Eisenhower
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -147,3 +147,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Jun  6 07:00:07 2024 | Write it on your heart that every day is the best day in the year. - Ralph Waldo Emerson
 - Fri Jun  7 07:00:07 2024 | We are here to change. We are here to grow, develop and unfold. We are progressive beings that have infinite capacity. - Michael Beckwith
 - Sat Jun  8 07:00:07 2024 | test - hp
+- Sun Jun  9 07:00:07 2024 | Politics is a profession a serious, complicated and, in its true sense, a noble one. - Dwight D. Eisenhower
