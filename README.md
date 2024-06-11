@@ -1,5 +1,5 @@
 ### Quote of the day
-It will be I, it will be the silence, where I am, I don't know, I'll never know, in the silence you don't know, you must go on, I can't go on, I'll go on. - Samuel Beckett
+The aim of art is to represent not the outward appearance of things, but their inward significance. - Aristotle
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -149,3 +149,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Jun  8 07:00:07 2024 | test - hp
 - Sun Jun  9 07:00:07 2024 | Politics is a profession a serious, complicated and, in its true sense, a noble one. - Dwight D. Eisenhower
 - Mon Jun 10 07:00:07 2024 | It will be I, it will be the silence, where I am, I don't know, I'll never know, in the silence you don't know, you must go on, I can't go on, I'll go on. - Samuel Beckett
+- Tue Jun 11 07:00:07 2024 | The aim of art is to represent not the outward appearance of things, but their inward significance. - Aristotle
