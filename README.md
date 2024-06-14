@@ -1,5 +1,5 @@
 ### Quote of the day
-A nickel ain't worth a dime anymore. - Yogi Berra
+Maturity: Be able to stick with a job until it is finished. Be able to bear an injustice without having to get even. Be able to carry money without spending it. Do your duty without being supervised. - Ann Landers
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -152,3 +152,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jun 11 07:00:07 2024 | The aim of art is to represent not the outward appearance of things, but their inward significance. - Aristotle
 - Wed Jun 12 07:00:07 2024 | People say that life is the thing, but I prefer reading. - Logan P. Smith
 - Thu Jun 13 07:00:07 2024 | A nickel ain't worth a dime anymore. - Yogi Berra
+- Fri Jun 14 07:00:07 2024 | Maturity: Be able to stick with a job until it is finished. Be able to bear an injustice without having to get even. Be able to carry money without spending it. Do your duty without being supervised. - Ann Landers
