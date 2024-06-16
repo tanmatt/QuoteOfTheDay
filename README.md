@@ -1,5 +1,5 @@
 ### Quote of the day
-There is nothing in the dark that isn't there when the lights are on. - Rod Serling
+I was born great, education ruined me. - Rajiv Jindal
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -154,3 +154,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Jun 13 07:00:07 2024 | A nickel ain't worth a dime anymore. - Yogi Berra
 - Fri Jun 14 07:00:07 2024 | Maturity: Be able to stick with a job until it is finished. Be able to bear an injustice without having to get even. Be able to carry money without spending it. Do your duty without being supervised. - Ann Landers
 - Sat Jun 15 07:00:07 2024 | There is nothing in the dark that isn't there when the lights are on. - Rod Serling
+- Sun Jun 16 07:00:07 2024 | I was born great, education ruined me. - Rajiv Jindal
