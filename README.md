@@ -1,5 +1,5 @@
 ### Quote of the day
-Eating rice cakes is like chewing on a foam coffee cup, only less filling. - Dave Barry
+Love is composed of a single soul inhabiting two bodies. - Aristotle
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -156,3 +156,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Jun 15 07:00:07 2024 | There is nothing in the dark that isn't there when the lights are on. - Rod Serling
 - Sun Jun 16 07:00:07 2024 | I was born great, education ruined me. - Rajiv Jindal
 - Mon Jun 17 07:00:07 2024 | Eating rice cakes is like chewing on a foam coffee cup, only less filling. - Dave Barry
+- Tue Jun 18 07:00:04 2024 | Love is composed of a single soul inhabiting two bodies. - Aristotle
