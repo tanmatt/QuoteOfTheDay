@@ -1,5 +1,5 @@
 ### Quote of the day
-test - hp
+There is in true beauty, as in courage, something which narrow souls cannot dare to admire. - William Congreve
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -158,3 +158,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Jun 17 07:00:07 2024 | Eating rice cakes is like chewing on a foam coffee cup, only less filling. - Dave Barry
 - Tue Jun 18 07:00:04 2024 | Love is composed of a single soul inhabiting two bodies. - Aristotle
 - Wed Jun 19 07:00:07 2024 | test - hp
+- Thu Jun 20 07:18:51 2024 | There is in true beauty, as in courage, something which narrow souls cannot dare to admire. - William Congreve
