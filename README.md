@@ -1,5 +1,5 @@
 ### Quote of the day
-Nothing strengthens authority as much as silence. - Leonardo da Vinci
+Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -161,3 +161,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Jun 20 07:18:51 2024 | There is in true beauty, as in courage, something which narrow souls cannot dare to admire. - William Congreve
 - Fri Jun 21 07:00:06 2024 | The key is to keep company only with people who uplift you, whose presence calls forth your best. - Epictetus
 - Sat Jun 22 07:00:08 2024 | Nothing strengthens authority as much as silence. - Leonardo da Vinci
+- Sun Jun 23 07:17:43 2024 | Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford
