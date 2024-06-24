@@ -1,5 +1,5 @@
 ### Quote of the day
-Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford
+It is utterly false and cruelly arbitrary to put all the play and learning into childhood, all the work into middle age, and all the regrets into old age. - Margaret Mead
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -162,3 +162,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Jun 21 07:00:06 2024 | The key is to keep company only with people who uplift you, whose presence calls forth your best. - Epictetus
 - Sat Jun 22 07:00:08 2024 | Nothing strengthens authority as much as silence. - Leonardo da Vinci
 - Sun Jun 23 07:17:43 2024 | Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford
+- Mon Jun 24 07:00:04 2024 | It is utterly false and cruelly arbitrary to put all the play and learning into childhood, all the work into middle age, and all the regrets into old age. - Margaret Mead
