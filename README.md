@@ -1,5 +1,5 @@
 ### Quote of the day
-It is utterly false and cruelly arbitrary to put all the play and learning into childhood, all the work into middle age, and all the regrets into old age. - Margaret Mead
+If there is any principle of the Constitution that more imperatively calls for attachment than any other it is the principle of free thought, not free thought for those who agree with us but freedom for the thought that we hate. - Oliver Wendell Holmes
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -163,3 +163,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Jun 22 07:00:08 2024 | Nothing strengthens authority as much as silence. - Leonardo da Vinci
 - Sun Jun 23 07:17:43 2024 | Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford
 - Mon Jun 24 07:00:04 2024 | It is utterly false and cruelly arbitrary to put all the play and learning into childhood, all the work into middle age, and all the regrets into old age. - Margaret Mead
+- Tue Jun 25 07:00:07 2024 | If there is any principle of the Constitution that more imperatively calls for attachment than any other it is the principle of free thought, not free thought for those who agree with us but freedom for the thought that we hate. - Oliver Wendell Holmes
