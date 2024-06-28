@@ -1,5 +1,5 @@
 ### Quote of the day
-There are four lights! - Catain Jean-Luc Picard
+If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice. - Michael Scott
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -166,3 +166,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jun 25 07:00:07 2024 | If there is any principle of the Constitution that more imperatively calls for attachment than any other it is the principle of free thought, not free thought for those who agree with us but freedom for the thought that we hate. - Oliver Wendell Holmes
 - Wed Jun 26 07:00:12 2024 | Those who know how to think need no teachers. - Mahatma Gandhi
 - Thu Jun 27 07:00:05 2024 | There are four lights! - Catain Jean-Luc Picard
+- Fri Jun 28 07:00:13 2024 | If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice. - Michael Scott
