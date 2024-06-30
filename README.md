@@ -1,5 +1,5 @@
 ### Quote of the day
-The man who does not read good books has no advantage over the man who cannot read them. - Mark Twain
+Passion is momentary love is enduring. - John Wooden
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -168,3 +168,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Jun 27 07:00:05 2024 | There are four lights! - Catain Jean-Luc Picard
 - Fri Jun 28 07:00:13 2024 | If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice. - Michael Scott
 - Sat Jun 29 07:00:05 2024 | The man who does not read good books has no advantage over the man who cannot read them. - Mark Twain
+- Sun Jun 30 07:00:06 2024 | Passion is momentary love is enduring. - John Wooden
