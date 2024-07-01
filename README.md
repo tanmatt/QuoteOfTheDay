@@ -1,5 +1,5 @@
 ### Quote of the day
-Passion is momentary love is enduring. - John Wooden
+Do not say, 'It is morning,' and dismiss it with a name of yesterday. See it for the first time as a newborn child that has no name. - Rabindranath Tagore
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -169,3 +169,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Jun 28 07:00:13 2024 | If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice. - Michael Scott
 - Sat Jun 29 07:00:05 2024 | The man who does not read good books has no advantage over the man who cannot read them. - Mark Twain
 - Sun Jun 30 07:00:06 2024 | Passion is momentary love is enduring. - John Wooden
+- Mon Jul  1 07:00:05 2024 | Do not say, 'It is morning,' and dismiss it with a name of yesterday. See it for the first time as a newborn child that has no name. - Rabindranath Tagore
