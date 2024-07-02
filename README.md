@@ -1,5 +1,5 @@
 ### Quote of the day
-Do not say, 'It is morning,' and dismiss it with a name of yesterday. See it for the first time as a newborn child that has no name. - Rabindranath Tagore
+You that would judge me, do not judge alone this book or that, come to this hallowed place where my friends' portraits hang and look thereon Ireland's history in their lineaments trace think where man's glory most begins and ends and say my glory was I had such friends. - William Butler Yeats
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -170,3 +170,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Jun 29 07:00:05 2024 | The man who does not read good books has no advantage over the man who cannot read them. - Mark Twain
 - Sun Jun 30 07:00:06 2024 | Passion is momentary love is enduring. - John Wooden
 - Mon Jul  1 07:00:05 2024 | Do not say, 'It is morning,' and dismiss it with a name of yesterday. See it for the first time as a newborn child that has no name. - Rabindranath Tagore
+- Tue Jul  2 07:00:05 2024 | You that would judge me, do not judge alone this book or that, come to this hallowed place where my friends' portraits hang and look thereon Ireland's history in their lineaments trace think where man's glory most begins and ends and say my glory was I had such friends. - William Butler Yeats
