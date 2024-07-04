@@ -1,5 +1,5 @@
 ### Quote of the day
-There is a real danger that computers will develop intelligence and take over. We urgently need to develop direct connections to the brain so that computers can add to human intelligence rather than be in opposition. - Stephen Hawking
+If you want to increase your success rate, double your failure rate. - Thomas J. Watson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -172,3 +172,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Jul  1 07:00:05 2024 | Do not say, 'It is morning,' and dismiss it with a name of yesterday. See it for the first time as a newborn child that has no name. - Rabindranath Tagore
 - Tue Jul  2 07:00:05 2024 | You that would judge me, do not judge alone this book or that, come to this hallowed place where my friends' portraits hang and look thereon Ireland's history in their lineaments trace think where man's glory most begins and ends and say my glory was I had such friends. - William Butler Yeats
 - Wed Jul  3 07:00:07 2024 | There is a real danger that computers will develop intelligence and take over. We urgently need to develop direct connections to the brain so that computers can add to human intelligence rather than be in opposition. - Stephen Hawking
+- Thu Jul  4 07:00:07 2024 | If you want to increase your success rate, double your failure rate. - Thomas J. Watson
