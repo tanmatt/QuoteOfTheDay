@@ -1,5 +1,5 @@
 ### Quote of the day
-If you want to increase your success rate, double your failure rate. - Thomas J. Watson
+If you have no respect for your own values how can you be worthy of respect from others. - Byron Pulsifer
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -173,3 +173,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jul  2 07:00:05 2024 | You that would judge me, do not judge alone this book or that, come to this hallowed place where my friends' portraits hang and look thereon Ireland's history in their lineaments trace think where man's glory most begins and ends and say my glory was I had such friends. - William Butler Yeats
 - Wed Jul  3 07:00:07 2024 | There is a real danger that computers will develop intelligence and take over. We urgently need to develop direct connections to the brain so that computers can add to human intelligence rather than be in opposition. - Stephen Hawking
 - Thu Jul  4 07:00:07 2024 | If you want to increase your success rate, double your failure rate. - Thomas J. Watson
+- Fri Jul  5 07:02:12 2024 | If you have no respect for your own values how can you be worthy of respect from others. - Byron Pulsifer
