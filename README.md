@@ -1,5 +1,5 @@
 ### Quote of the day
-If you have no respect for your own values how can you be worthy of respect from others. - Byron Pulsifer
+If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat. - Douglas Adams
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -174,3 +174,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Jul  3 07:00:07 2024 | There is a real danger that computers will develop intelligence and take over. We urgently need to develop direct connections to the brain so that computers can add to human intelligence rather than be in opposition. - Stephen Hawking
 - Thu Jul  4 07:00:07 2024 | If you want to increase your success rate, double your failure rate. - Thomas J. Watson
 - Fri Jul  5 07:02:12 2024 | If you have no respect for your own values how can you be worthy of respect from others. - Byron Pulsifer
+- Sat Jul  6 07:00:06 2024 | If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat. - Douglas Adams
