@@ -1,5 +1,5 @@
 ### Quote of the day
-If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat. - Douglas Adams
+True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - Socrates
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -175,3 +175,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Jul  4 07:00:07 2024 | If you want to increase your success rate, double your failure rate. - Thomas J. Watson
 - Fri Jul  5 07:02:12 2024 | If you have no respect for your own values how can you be worthy of respect from others. - Byron Pulsifer
 - Sat Jul  6 07:00:06 2024 | If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat. - Douglas Adams
+- Sun Jul  7 07:00:07 2024 | True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - Socrates
