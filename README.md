@@ -1,5 +1,5 @@
 ### Quote of the day
-True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - Socrates
+Courage is knowing what not to fear. - Plato
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -176,3 +176,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Jul  5 07:02:12 2024 | If you have no respect for your own values how can you be worthy of respect from others. - Byron Pulsifer
 - Sat Jul  6 07:00:06 2024 | If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat. - Douglas Adams
 - Sun Jul  7 07:00:07 2024 | True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - Socrates
+- Mon Jul  8 07:00:07 2024 | Courage is knowing what not to fear. - Plato
