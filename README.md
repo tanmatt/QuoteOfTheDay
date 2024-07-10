@@ -1,5 +1,5 @@
 ### Quote of the day
-The laws of nature are but the mathematical thoughts of God. - Euclid
+Poetry is what gets lost in translation. - Robert Frost
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -178,3 +178,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Jul  7 07:00:07 2024 | True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - Socrates
 - Mon Jul  8 07:00:07 2024 | Courage is knowing what not to fear. - Plato
 - Tue Jul  9 07:00:07 2024 | The laws of nature are but the mathematical thoughts of God. - Euclid
+- Wed Jul 10 07:00:07 2024 | Poetry is what gets lost in translation. - Robert Frost
