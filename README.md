@@ -1,5 +1,5 @@
 ### Quote of the day
-Poetry is what gets lost in translation. - Robert Frost
+You are what you do, not what you say you'll do. - Carl Jung
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -179,3 +179,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Jul  8 07:00:07 2024 | Courage is knowing what not to fear. - Plato
 - Tue Jul  9 07:00:07 2024 | The laws of nature are but the mathematical thoughts of God. - Euclid
 - Wed Jul 10 07:00:07 2024 | Poetry is what gets lost in translation. - Robert Frost
+- Thu Jul 11 07:00:08 2024 | You are what you do, not what you say you'll do. - Carl Jung
