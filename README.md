@@ -1,5 +1,5 @@
 ### Quote of the day
-History should be written as philosophy. - Voltaire
+Experience is simply the name we give our mistakes. - Oscar Wilde
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -181,3 +181,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Jul 10 07:00:07 2024 | Poetry is what gets lost in translation. - Robert Frost
 - Thu Jul 11 07:00:08 2024 | You are what you do, not what you say you'll do. - Carl Jung
 - Fri Jul 12 07:10:22 2024 | History should be written as philosophy. - Voltaire
+- Sat Jul 13 07:00:07 2024 | Experience is simply the name we give our mistakes. - Oscar Wilde
