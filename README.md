@@ -1,5 +1,5 @@
 ### Quote of the day
-Experience is simply the name we give our mistakes. - Oscar Wilde
+When you come to a fork in the road, take it. - Yogi Berra
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -182,3 +182,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Jul 11 07:00:08 2024 | You are what you do, not what you say you'll do. - Carl Jung
 - Fri Jul 12 07:10:22 2024 | History should be written as philosophy. - Voltaire
 - Sat Jul 13 07:00:07 2024 | Experience is simply the name we give our mistakes. - Oscar Wilde
+- Sun Jul 14 07:00:07 2024 | When you come to a fork in the road, take it. - Yogi Berra
