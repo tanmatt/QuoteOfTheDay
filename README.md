@@ -1,5 +1,5 @@
 ### Quote of the day
-It just seems awfully mean. But sometimes, the ends justify the mean. - Michael Scott
+Don't limit a child to your own learning, for he was born in another time. - Rabindranath Tagore
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -184,3 +184,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Jul 13 07:00:07 2024 | Experience is simply the name we give our mistakes. - Oscar Wilde
 - Sun Jul 14 07:00:07 2024 | When you come to a fork in the road, take it. - Yogi Berra
 - Mon Jul 15 07:00:12 2024 | It just seems awfully mean. But sometimes, the ends justify the mean. - Michael Scott
+- Tue Jul 16 07:00:07 2024 | Don't limit a child to your own learning, for he was born in another time. - Rabindranath Tagore
