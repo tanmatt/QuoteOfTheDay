@@ -1,5 +1,5 @@
 ### Quote of the day
-Don't limit a child to your own learning, for he was born in another time. - Rabindranath Tagore
+The true art of memory is the art of attention. - Samuel Johnson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -185,3 +185,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Jul 14 07:00:07 2024 | When you come to a fork in the road, take it. - Yogi Berra
 - Mon Jul 15 07:00:12 2024 | It just seems awfully mean. But sometimes, the ends justify the mean. - Michael Scott
 - Tue Jul 16 07:00:07 2024 | Don't limit a child to your own learning, for he was born in another time. - Rabindranath Tagore
+- Wed Jul 17 07:00:07 2024 | The true art of memory is the art of attention. - Samuel Johnson
