@@ -1,5 +1,5 @@
 ### Quote of the day
-Television it will keep your a-s wishin' forever. - Ice Cube
+Love is metaphysical gravity. - R. Buckminster Fuller
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -187,3 +187,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jul 16 07:00:07 2024 | Don't limit a child to your own learning, for he was born in another time. - Rabindranath Tagore
 - Wed Jul 17 07:00:07 2024 | The true art of memory is the art of attention. - Samuel Johnson
 - Thu Jul 18 07:00:05 2024 | Television it will keep your a-s wishin' forever. - Ice Cube
+- Fri Jul 19 07:00:07 2024 | Love is metaphysical gravity. - R. Buckminster Fuller
