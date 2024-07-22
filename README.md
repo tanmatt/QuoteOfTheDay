@@ -1,5 +1,5 @@
 ### Quote of the day
-Nothing is impossible. - Test-R199
+Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction. - Albert Einstein
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -189,3 +189,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Jul 18 07:00:05 2024 | Television it will keep your a-s wishin' forever. - Ice Cube
 - Fri Jul 19 07:00:07 2024 | Love is metaphysical gravity. - R. Buckminster Fuller
 - Sun Jul 21 07:00:07 2024 | Nothing is impossible. - Test-R199
+- Mon Jul 22 07:00:04 2024 | Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction. - Albert Einstein
