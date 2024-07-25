@@ -1,5 +1,5 @@
 ### Quote of the day
-I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.' - Muhammad Ali
+Without knowing what I am and why I am here, life is impossible. - Leo Tolstoy
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -192,3 +192,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Jul 22 07:00:04 2024 | Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction. - Albert Einstein
 - Tue Jul 23 07:00:04 2024 | Be kind whenever possible. It is always possible. - Nag R
 - Wed Jul 24 07:00:04 2024 | I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.' - Muhammad Ali
+- Thu Jul 25 07:00:07 2024 | Without knowing what I am and why I am here, life is impossible. - Leo Tolstoy
