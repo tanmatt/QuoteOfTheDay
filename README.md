@@ -1,5 +1,5 @@
 ### Quote of the day
-Without knowing what I am and why I am here, life is impossible. - Leo Tolstoy
+Whenever the people are well-informed, they can be trusted with their own government. - Thomas Jefferson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -193,3 +193,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jul 23 07:00:04 2024 | Be kind whenever possible. It is always possible. - Nag R
 - Wed Jul 24 07:00:04 2024 | I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.' - Muhammad Ali
 - Thu Jul 25 07:00:07 2024 | Without knowing what I am and why I am here, life is impossible. - Leo Tolstoy
+- Fri Jul 26 07:00:06 2024 | Whenever the people are well-informed, they can be trusted with their own government. - Thomas Jefferson
