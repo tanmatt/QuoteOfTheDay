@@ -1,5 +1,5 @@
 ### Quote of the day
-I suppose leadership at one time meant muscles but today it means getting along with people. - Mahatma Gandhi
+Leadership is a privilege to better the lives of others. It is not an opportunity to satisfy personal greed. - Mwai Kibaki
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -195,3 +195,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Jul 25 07:00:07 2024 | Without knowing what I am and why I am here, life is impossible. - Leo Tolstoy
 - Fri Jul 26 07:00:06 2024 | Whenever the people are well-informed, they can be trusted with their own government. - Thomas Jefferson
 - Sat Jul 27 07:00:04 2024 | I suppose leadership at one time meant muscles but today it means getting along with people. - Mahatma Gandhi
+- Sun Jul 28 07:00:07 2024 | Leadership is a privilege to better the lives of others. It is not an opportunity to satisfy personal greed. - Mwai Kibaki
