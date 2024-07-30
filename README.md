@@ -1,5 +1,5 @@
 ### Quote of the day
-Virtue is persecuted more by the wicked than it is loved by the good. - Buddha
+Never stop dreaming big - Nia
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -197,3 +197,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Jul 27 07:00:04 2024 | I suppose leadership at one time meant muscles but today it means getting along with people. - Mahatma Gandhi
 - Sun Jul 28 07:00:07 2024 | Leadership is a privilege to better the lives of others. It is not an opportunity to satisfy personal greed. - Mwai Kibaki
 - Mon Jul 29 07:00:07 2024 | Virtue is persecuted more by the wicked than it is loved by the good. - Buddha
+- Tue Jul 30 07:00:07 2024 | Never stop dreaming big - Nia
