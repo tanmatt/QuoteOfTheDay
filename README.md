@@ -1,5 +1,5 @@
 ### Quote of the day
-Never stop dreaming big - Nia
+No being is so important that he can usurp the rights of another. - Captain Jean-Luc Picard
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -198,3 +198,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Jul 28 07:00:07 2024 | Leadership is a privilege to better the lives of others. It is not an opportunity to satisfy personal greed. - Mwai Kibaki
 - Mon Jul 29 07:00:07 2024 | Virtue is persecuted more by the wicked than it is loved by the good. - Buddha
 - Tue Jul 30 07:00:07 2024 | Never stop dreaming big - Nia
+- Thu Aug  1 07:00:08 2024 | No being is so important that he can usurp the rights of another. - Captain Jean-Luc Picard
