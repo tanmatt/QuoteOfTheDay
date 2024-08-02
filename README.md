@@ -1,5 +1,5 @@
 ### Quote of the day
-No being is so important that he can usurp the rights of another. - Captain Jean-Luc Picard
+Any fool can tell the truth, but it requires a man of some sense to know how to lie well. - Samuel Butler
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -199,3 +199,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Jul 29 07:00:07 2024 | Virtue is persecuted more by the wicked than it is loved by the good. - Buddha
 - Tue Jul 30 07:00:07 2024 | Never stop dreaming big - Nia
 - Thu Aug  1 07:00:08 2024 | No being is so important that he can usurp the rights of another. - Captain Jean-Luc Picard
+- Fri Aug  2 07:00:07 2024 | Any fool can tell the truth, but it requires a man of some sense to know how to lie well. - Samuel Butler
