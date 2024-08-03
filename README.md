@@ -1,5 +1,5 @@
 ### Quote of the day
-Any fool can tell the truth, but it requires a man of some sense to know how to lie well. - Samuel Butler
+Too great haste to repay an obligation is a kind of ingratitude. - Francois de La Rochefoucauld
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -200,3 +200,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Jul 30 07:00:07 2024 | Never stop dreaming big - Nia
 - Thu Aug  1 07:00:08 2024 | No being is so important that he can usurp the rights of another. - Captain Jean-Luc Picard
 - Fri Aug  2 07:00:07 2024 | Any fool can tell the truth, but it requires a man of some sense to know how to lie well. - Samuel Butler
+- Sat Aug  3 07:00:07 2024 | Too great haste to repay an obligation is a kind of ingratitude. - Francois de La Rochefoucauld
