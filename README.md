@@ -1,5 +1,5 @@
 ### Quote of the day
-Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people. - Fred Rogers
+Come, gentlemen, I hope we shall drink down all unkindness. - William Shakespeare
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -202,3 +202,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Aug  2 07:00:07 2024 | Any fool can tell the truth, but it requires a man of some sense to know how to lie well. - Samuel Butler
 - Sat Aug  3 07:00:07 2024 | Too great haste to repay an obligation is a kind of ingratitude. - Francois de La Rochefoucauld
 - Sun Aug  4 07:00:08 2024 | Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people. - Fred Rogers
+- Mon Aug  5 07:00:08 2024 | Come, gentlemen, I hope we shall drink down all unkindness. - William Shakespeare
