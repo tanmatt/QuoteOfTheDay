@@ -1,5 +1,5 @@
 ### Quote of the day
-Come, gentlemen, I hope we shall drink down all unkindness. - William Shakespeare
+Associate with men of good quality if you esteem your own reputation; for it is better to be alone than in bad company. - George Washington
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -203,3 +203,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Aug  3 07:00:07 2024 | Too great haste to repay an obligation is a kind of ingratitude. - Francois de La Rochefoucauld
 - Sun Aug  4 07:00:08 2024 | Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people. - Fred Rogers
 - Mon Aug  5 07:00:08 2024 | Come, gentlemen, I hope we shall drink down all unkindness. - William Shakespeare
+- Tue Aug  6 07:00:07 2024 | Associate with men of good quality if you esteem your own reputation; for it is better to be alone than in bad company. - George Washington
