@@ -1,5 +1,5 @@
 ### Quote of the day
-Associate with men of good quality if you esteem your own reputation; for it is better to be alone than in bad company. - George Washington
+Some mischievous people always there. Last several thousand years, always there. In future, also. - Dalai Lama
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -204,3 +204,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Aug  4 07:00:08 2024 | Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people. - Fred Rogers
 - Mon Aug  5 07:00:08 2024 | Come, gentlemen, I hope we shall drink down all unkindness. - William Shakespeare
 - Tue Aug  6 07:00:07 2024 | Associate with men of good quality if you esteem your own reputation; for it is better to be alone than in bad company. - George Washington
+- Wed Aug  7 07:00:07 2024 | Some mischievous people always there. Last several thousand years, always there. In future, also. - Dalai Lama
