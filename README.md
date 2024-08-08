@@ -1,5 +1,5 @@
 ### Quote of the day
-Some mischievous people always there. Last several thousand years, always there. In future, also. - Dalai Lama
+Never contract friendship with a man that is not better than thyself. - Confucius
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -205,3 +205,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Aug  5 07:00:08 2024 | Come, gentlemen, I hope we shall drink down all unkindness. - William Shakespeare
 - Tue Aug  6 07:00:07 2024 | Associate with men of good quality if you esteem your own reputation; for it is better to be alone than in bad company. - George Washington
 - Wed Aug  7 07:00:07 2024 | Some mischievous people always there. Last several thousand years, always there. In future, also. - Dalai Lama
+- Thu Aug  8 07:00:07 2024 | Never contract friendship with a man that is not better than thyself. - Confucius
