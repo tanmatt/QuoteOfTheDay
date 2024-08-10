@@ -1,5 +1,5 @@
 ### Quote of the day
-When sorrows come, they come not single spies, but in battalions. - William Shakespeare
+What we call happiness in the strictest sense comes from the (preferably sudden) satisfaction of needs which have been dammed up to a high degree. - Sigmund Freud
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -207,3 +207,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Aug  7 07:00:07 2024 | Some mischievous people always there. Last several thousand years, always there. In future, also. - Dalai Lama
 - Thu Aug  8 07:00:07 2024 | Never contract friendship with a man that is not better than thyself. - Confucius
 - Fri Aug  9 07:00:08 2024 | When sorrows come, they come not single spies, but in battalions. - William Shakespeare
+- Sat Aug 10 07:00:07 2024 | What we call happiness in the strictest sense comes from the (preferably sudden) satisfaction of needs which have been dammed up to a high degree. - Sigmund Freud
