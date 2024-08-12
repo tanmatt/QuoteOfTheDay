@@ -1,5 +1,5 @@
 ### Quote of the day
-What we call happiness in the strictest sense comes from the (preferably sudden) satisfaction of needs which have been dammed up to a high degree. - Sigmund Freud
+Your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones. - Benjamin Franklin
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -208,3 +208,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Aug  8 07:00:07 2024 | Never contract friendship with a man that is not better than thyself. - Confucius
 - Fri Aug  9 07:00:08 2024 | When sorrows come, they come not single spies, but in battalions. - William Shakespeare
 - Sat Aug 10 07:00:07 2024 | What we call happiness in the strictest sense comes from the (preferably sudden) satisfaction of needs which have been dammed up to a high degree. - Sigmund Freud
+- Mon Aug 12 07:00:09 2024 | Your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones. - Benjamin Franklin
