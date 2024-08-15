@@ -1,5 +1,5 @@
 ### Quote of the day
-We are made wise not by the recollection of our past, but by the responsibility for our future. - George Bernard Shaw
+Wine hath drowned more men than the sea. - Thomas Fuller
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -211,3 +211,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Aug 12 07:00:09 2024 | Your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones. - Benjamin Franklin
 - Tue Aug 13 07:00:07 2024 | We're on a mission from God. - Elwood
 - Wed Aug 14 07:00:07 2024 | We are made wise not by the recollection of our past, but by the responsibility for our future. - George Bernard Shaw
+- Thu Aug 15 07:00:07 2024 | Wine hath drowned more men than the sea. - Thomas Fuller
