@@ -1,5 +1,5 @@
 ### Quote of the day
-Wine hath drowned more men than the sea. - Thomas Fuller
+Never stop dreaming big - Nia
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -212,3 +212,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Aug 13 07:00:07 2024 | We're on a mission from God. - Elwood
 - Wed Aug 14 07:00:07 2024 | We are made wise not by the recollection of our past, but by the responsibility for our future. - George Bernard Shaw
 - Thu Aug 15 07:00:07 2024 | Wine hath drowned more men than the sea. - Thomas Fuller
+- Fri Aug 16 07:00:06 2024 | Never stop dreaming big - Nia
