@@ -1,5 +1,5 @@
 ### Quote of the day
-Never stop dreaming big - Nia
+To be positive is to be mistaken at the top of one's voice. - Ambrose Bierce
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -213,3 +213,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Aug 14 07:00:07 2024 | We are made wise not by the recollection of our past, but by the responsibility for our future. - George Bernard Shaw
 - Thu Aug 15 07:00:07 2024 | Wine hath drowned more men than the sea. - Thomas Fuller
 - Fri Aug 16 07:00:06 2024 | Never stop dreaming big - Nia
+- Sat Aug 17 07:00:07 2024 | To be positive is to be mistaken at the top of one's voice. - Ambrose Bierce
