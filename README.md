@@ -1,5 +1,5 @@
 ### Quote of the day
-To be positive is to be mistaken at the top of one's voice. - Ambrose Bierce
+Old men are dangerous: it doesn't matter to them what is going to happen to the world. - George Bernard Shaw
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -214,3 +214,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Aug 15 07:00:07 2024 | Wine hath drowned more men than the sea. - Thomas Fuller
 - Fri Aug 16 07:00:06 2024 | Never stop dreaming big - Nia
 - Sat Aug 17 07:00:07 2024 | To be positive is to be mistaken at the top of one's voice. - Ambrose Bierce
+- Sun Aug 18 07:00:07 2024 | Old men are dangerous: it doesn't matter to them what is going to happen to the world. - George Bernard Shaw
