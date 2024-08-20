@@ -1,5 +1,5 @@
 ### Quote of the day
-Those who know how to think need no teachers. - Mahatma Gandhi
+Between falsehood and useless truth there is little difference. As gold which he cannot spend will make no man rich, so knowledge which cannot apply will make no man wise. - Samuel Johnson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -216,3 +216,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Aug 17 07:00:07 2024 | To be positive is to be mistaken at the top of one's voice. - Ambrose Bierce
 - Sun Aug 18 07:00:07 2024 | Old men are dangerous: it doesn't matter to them what is going to happen to the world. - George Bernard Shaw
 - Mon Aug 19 07:00:07 2024 | Those who know how to think need no teachers. - Mahatma Gandhi
+- Tue Aug 20 07:00:08 2024 | Between falsehood and useless truth there is little difference. As gold which he cannot spend will make no man rich, so knowledge which cannot apply will make no man wise. - Samuel Johnson
