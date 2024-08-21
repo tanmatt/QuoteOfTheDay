@@ -1,5 +1,5 @@
 ### Quote of the day
-Between falsehood and useless truth there is little difference. As gold which he cannot spend will make no man rich, so knowledge which cannot apply will make no man wise. - Samuel Johnson
+I am at peace with God. My conflict is with Man. - Charlie Chaplin
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -217,3 +217,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Aug 18 07:00:07 2024 | Old men are dangerous: it doesn't matter to them what is going to happen to the world. - George Bernard Shaw
 - Mon Aug 19 07:00:07 2024 | Those who know how to think need no teachers. - Mahatma Gandhi
 - Tue Aug 20 07:00:08 2024 | Between falsehood and useless truth there is little difference. As gold which he cannot spend will make no man rich, so knowledge which cannot apply will make no man wise. - Samuel Johnson
+- Wed Aug 21 07:00:07 2024 | I am at peace with God. My conflict is with Man. - Charlie Chaplin
