@@ -1,5 +1,5 @@
 ### Quote of the day
-I am at peace with God. My conflict is with Man. - Charlie Chaplin
+There is no such thing as failure. There are only results. - Tony Robbins
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -218,3 +218,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Aug 19 07:00:07 2024 | Those who know how to think need no teachers. - Mahatma Gandhi
 - Tue Aug 20 07:00:08 2024 | Between falsehood and useless truth there is little difference. As gold which he cannot spend will make no man rich, so knowledge which cannot apply will make no man wise. - Samuel Johnson
 - Wed Aug 21 07:00:07 2024 | I am at peace with God. My conflict is with Man. - Charlie Chaplin
+- Thu Aug 22 07:00:05 2024 | There is no such thing as failure. There are only results. - Tony Robbins
