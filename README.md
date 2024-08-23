@@ -1,5 +1,5 @@
 ### Quote of the day
-There is no such thing as failure. There are only results. - Tony Robbins
+If history were taught in the form of stories, it would never be forgotten. - Rudyard Kipling
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -219,3 +219,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Aug 20 07:00:08 2024 | Between falsehood and useless truth there is little difference. As gold which he cannot spend will make no man rich, so knowledge which cannot apply will make no man wise. - Samuel Johnson
 - Wed Aug 21 07:00:07 2024 | I am at peace with God. My conflict is with Man. - Charlie Chaplin
 - Thu Aug 22 07:00:05 2024 | There is no such thing as failure. There are only results. - Tony Robbins
+- Fri Aug 23 07:00:07 2024 | If history were taught in the form of stories, it would never be forgotten. - Rudyard Kipling
