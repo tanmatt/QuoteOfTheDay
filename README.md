@@ -1,5 +1,5 @@
 ### Quote of the day
-The greatest thing about being a scientist is you never have to grow up. - Neil deGrasse Tyson
+Be true to your work, your word, and your friend. - Henry David Thoreau
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -221,3 +221,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Aug 22 07:00:05 2024 | There is no such thing as failure. There are only results. - Tony Robbins
 - Fri Aug 23 07:00:07 2024 | If history were taught in the form of stories, it would never be forgotten. - Rudyard Kipling
 - Sat Aug 24 07:00:06 2024 | The greatest thing about being a scientist is you never have to grow up. - Neil deGrasse Tyson
+- Sun Aug 25 07:00:07 2024 | Be true to your work, your word, and your friend. - Henry David Thoreau
