@@ -1,5 +1,5 @@
 ### Quote of the day
-True art is characterized by an irresistible urge in the creative artist. - Albert Einstein
+These aren't the droids you're looking for. - Obi-Wan Kenobi
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -223,3 +223,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Aug 24 07:00:06 2024 | The greatest thing about being a scientist is you never have to grow up. - Neil deGrasse Tyson
 - Sun Aug 25 07:00:07 2024 | Be true to your work, your word, and your friend. - Henry David Thoreau
 - Mon Aug 26 07:00:07 2024 | True art is characterized by an irresistible urge in the creative artist. - Albert Einstein
+- Tue Aug 27 07:00:07 2024 | These aren't the droids you're looking for. - Obi-Wan Kenobi
