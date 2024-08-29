@@ -1,5 +1,5 @@
 ### Quote of the day
-One of the secrets of life is that all that is really worth the doing is what we do for others. - Lewis Carroll
+The only certain freedom's in departure. - Robert Frost
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -225,3 +225,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Aug 26 07:00:07 2024 | True art is characterized by an irresistible urge in the creative artist. - Albert Einstein
 - Tue Aug 27 07:00:07 2024 | These aren't the droids you're looking for. - Obi-Wan Kenobi
 - Wed Aug 28 07:00:12 2024 | One of the secrets of life is that all that is really worth the doing is what we do for others. - Lewis Carroll
+- Thu Aug 29 07:00:07 2024 | The only certain freedom's in departure. - Robert Frost
