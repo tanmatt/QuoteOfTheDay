@@ -1,5 +1,5 @@
 ### Quote of the day
-The only certain freedom's in departure. - Robert Frost
+If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat. - Douglas Adams
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -226,3 +226,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Aug 27 07:00:07 2024 | These aren't the droids you're looking for. - Obi-Wan Kenobi
 - Wed Aug 28 07:00:12 2024 | One of the secrets of life is that all that is really worth the doing is what we do for others. - Lewis Carroll
 - Thu Aug 29 07:00:07 2024 | The only certain freedom's in departure. - Robert Frost
+- Fri Aug 30 07:00:07 2024 | If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat. - Douglas Adams
