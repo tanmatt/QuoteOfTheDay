@@ -1,5 +1,5 @@
 ### Quote of the day
-Real artists ship. - Steve Jobs
+I think it's crucial that young women learn to code as early as possible to ensure that we have a voice in what the world looks like. - Karlie Kloss
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -228,3 +228,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Aug 29 07:00:07 2024 | The only certain freedom's in departure. - Robert Frost
 - Fri Aug 30 07:00:07 2024 | If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat. - Douglas Adams
 - Sat Aug 31 07:00:07 2024 | Real artists ship. - Steve Jobs
+- Sun Sep  1 07:00:07 2024 | I think it's crucial that young women learn to code as early as possible to ensure that we have a voice in what the world looks like. - Karlie Kloss
