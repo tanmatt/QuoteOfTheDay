@@ -1,5 +1,5 @@
 ### Quote of the day
-I think it's crucial that young women learn to code as early as possible to ensure that we have a voice in what the world looks like. - Karlie Kloss
+A work of art is the unique result of a unique temperament. - Oscar Wilde
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -229,3 +229,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Aug 30 07:00:07 2024 | If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat. - Douglas Adams
 - Sat Aug 31 07:00:07 2024 | Real artists ship. - Steve Jobs
 - Sun Sep  1 07:00:07 2024 | I think it's crucial that young women learn to code as early as possible to ensure that we have a voice in what the world looks like. - Karlie Kloss
+- Tue Sep  3 07:00:07 2024 | A work of art is the unique result of a unique temperament. - Oscar Wilde
