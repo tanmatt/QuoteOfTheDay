@@ -1,5 +1,5 @@
 ### Quote of the day
-Have let your schooling interfere with your education. - Mark Dey
+There are people in the world so hungry, that God cannot appear to them except in the form of bread. - Mahatma Gandhi
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -231,3 +231,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Sep  1 07:00:07 2024 | I think it's crucial that young women learn to code as early as possible to ensure that we have a voice in what the world looks like. - Karlie Kloss
 - Tue Sep  3 07:00:07 2024 | A work of art is the unique result of a unique temperament. - Oscar Wilde
 - Wed Sep  4 07:00:07 2024 | Have let your schooling interfere with your education. - Mark Dey
+- Thu Sep  5 07:04:02 2024 | There are people in the world so hungry, that God cannot appear to them except in the form of bread. - Mahatma Gandhi
