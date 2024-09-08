@@ -1,5 +1,5 @@
 ### Quote of the day
-Because of a great love, one is courageous. - Lao Tzu
+He who laughs best today, will also laughs last. - Friedrich Nietzsche
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -234,3 +234,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Sep  5 07:04:02 2024 | There are people in the world so hungry, that God cannot appear to them except in the form of bread. - Mahatma Gandhi
 - Fri Sep  6 07:00:08 2024 | Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill
 - Sat Sep  7 07:00:07 2024 | Because of a great love, one is courageous. - Lao Tzu
+- Sun Sep  8 07:00:07 2024 | He who laughs best today, will also laughs last. - Friedrich Nietzsche
