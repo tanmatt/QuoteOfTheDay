@@ -1,5 +1,5 @@
 ### Quote of the day
-He who laughs best today, will also laughs last. - Friedrich Nietzsche
+A man is relieved and gay when he has put his heart into his work and done his best but what he has said or done otherwise shall give him no peace. - Ralph Waldo Emerson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -235,3 +235,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Sep  6 07:00:08 2024 | Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill
 - Sat Sep  7 07:00:07 2024 | Because of a great love, one is courageous. - Lao Tzu
 - Sun Sep  8 07:00:07 2024 | He who laughs best today, will also laughs last. - Friedrich Nietzsche
+- Mon Sep  9 07:00:07 2024 | A man is relieved and gay when he has put his heart into his work and done his best but what he has said or done otherwise shall give him no peace. - Ralph Waldo Emerson
