@@ -1,5 +1,5 @@
 ### Quote of the day
-A man is relieved and gay when he has put his heart into his work and done his best but what he has said or done otherwise shall give him no peace. - Ralph Waldo Emerson
+I quote others only in order to better express myself. - Michel de Montaigne
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -236,3 +236,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Sep  7 07:00:07 2024 | Because of a great love, one is courageous. - Lao Tzu
 - Sun Sep  8 07:00:07 2024 | He who laughs best today, will also laughs last. - Friedrich Nietzsche
 - Mon Sep  9 07:00:07 2024 | A man is relieved and gay when he has put his heart into his work and done his best but what he has said or done otherwise shall give him no peace. - Ralph Waldo Emerson
+- Tue Sep 10 07:00:03 2024 | I quote others only in order to better express myself. - Michel de Montaigne
