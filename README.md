@@ -1,5 +1,5 @@
 ### Quote of the day
-I quote others only in order to better express myself. - Michel de Montaigne
+The fickleness of the women I love is only equalled by the infernal constancy of the women who love me. - George Bernard Shaw
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -237,3 +237,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Sep  8 07:00:07 2024 | He who laughs best today, will also laughs last. - Friedrich Nietzsche
 - Mon Sep  9 07:00:07 2024 | A man is relieved and gay when he has put his heart into his work and done his best but what he has said or done otherwise shall give him no peace. - Ralph Waldo Emerson
 - Tue Sep 10 07:00:03 2024 | I quote others only in order to better express myself. - Michel de Montaigne
+- Wed Sep 11 07:00:04 2024 | The fickleness of the women I love is only equalled by the infernal constancy of the women who love me. - George Bernard Shaw
