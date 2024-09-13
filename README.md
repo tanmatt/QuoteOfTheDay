@@ -1,5 +1,5 @@
 ### Quote of the day
-It seems like every time you come up something happens to bring you back down. - Tupac Shakur
+The first requisite of a good citizen in this republic of ours is that he shall be able and willing to pull his own weight. - Theodore Roosevelt
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -239,3 +239,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Sep 10 07:00:03 2024 | I quote others only in order to better express myself. - Michel de Montaigne
 - Wed Sep 11 07:00:04 2024 | The fickleness of the women I love is only equalled by the infernal constancy of the women who love me. - George Bernard Shaw
 - Thu Sep 12 07:00:04 2024 | It seems like every time you come up something happens to bring you back down. - Tupac Shakur
+- Fri Sep 13 07:00:04 2024 | The first requisite of a good citizen in this republic of ours is that he shall be able and willing to pull his own weight. - Theodore Roosevelt
