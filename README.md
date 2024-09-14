@@ -1,5 +1,5 @@
 ### Quote of the day
-The first requisite of a good citizen in this republic of ours is that he shall be able and willing to pull his own weight. - Theodore Roosevelt
+Be willing to be a begineer every single morning. - Meister Eckhart
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -240,3 +240,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Sep 11 07:00:04 2024 | The fickleness of the women I love is only equalled by the infernal constancy of the women who love me. - George Bernard Shaw
 - Thu Sep 12 07:00:04 2024 | It seems like every time you come up something happens to bring you back down. - Tupac Shakur
 - Fri Sep 13 07:00:04 2024 | The first requisite of a good citizen in this republic of ours is that he shall be able and willing to pull his own weight. - Theodore Roosevelt
+- Sat Sep 14 07:00:05 2024 | Be willing to be a begineer every single morning. - Meister Eckhart
