@@ -1,5 +1,5 @@
 ### Quote of the day
-No one is a friend to his friend who does not love in return. - Plato
+In most people's vocabularies, design means veneer. It's interior decorating. It's the fabric of the curtains and the sofa. But to me, nothing could be further from the meaning of design. - Steve Jobs
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -242,3 +242,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Sep 13 07:00:04 2024 | The first requisite of a good citizen in this republic of ours is that he shall be able and willing to pull his own weight. - Theodore Roosevelt
 - Sat Sep 14 07:00:05 2024 | Be willing to be a begineer every single morning. - Meister Eckhart
 - Sun Sep 15 07:00:04 2024 | No one is a friend to his friend who does not love in return. - Plato
+- Mon Sep 16 07:00:03 2024 | In most people's vocabularies, design means veneer. It's interior decorating. It's the fabric of the curtains and the sofa. But to me, nothing could be further from the meaning of design. - Steve Jobs
