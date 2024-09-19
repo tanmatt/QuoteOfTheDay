@@ -1,5 +1,5 @@
 ### Quote of the day
-Climate change is a terrible problem, and it absolutely needs to be solved. It deserves to be a huge priority. - Bill Gates
+Never in the field of human conflict was so much owed by so many to so few. - Winston Churchill
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -245,3 +245,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Sep 16 07:00:03 2024 | In most people's vocabularies, design means veneer. It's interior decorating. It's the fabric of the curtains and the sofa. But to me, nothing could be further from the meaning of design. - Steve Jobs
 - Tue Sep 17 07:00:04 2024 | Happiness can exist only in acceptance. - George Orwell
 - Wed Sep 18 07:00:03 2024 | Climate change is a terrible problem, and it absolutely needs to be solved. It deserves to be a huge priority. - Bill Gates
+- Thu Sep 19 07:00:03 2024 | Never in the field of human conflict was so much owed by so many to so few. - Winston Churchill
