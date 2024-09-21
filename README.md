@@ -1,5 +1,5 @@
 ### Quote of the day
-I do not believe in the God of theology who rewards good and punishes evil. - Albert Einstein
+Computers are useless. They can only give you answers. - Pablo Picasso
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -247,3 +247,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Sep 18 07:00:03 2024 | Climate change is a terrible problem, and it absolutely needs to be solved. It deserves to be a huge priority. - Bill Gates
 - Thu Sep 19 07:00:03 2024 | Never in the field of human conflict was so much owed by so many to so few. - Winston Churchill
 - Fri Sep 20 07:00:03 2024 | I do not believe in the God of theology who rewards good and punishes evil. - Albert Einstein
+- Sat Sep 21 07:00:03 2024 | Computers are useless. They can only give you answers. - Pablo Picasso
