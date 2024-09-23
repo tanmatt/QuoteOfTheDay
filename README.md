@@ -1,5 +1,5 @@
 ### Quote of the day
-Failure defeats losers, failure inspires winners - Robert T. Kiyosaki
+There are good and bad times, but our mood changes more often than our fortune. - Thomas Carlyle
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -249,3 +249,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Sep 20 07:00:03 2024 | I do not believe in the God of theology who rewards good and punishes evil. - Albert Einstein
 - Sat Sep 21 07:00:03 2024 | Computers are useless. They can only give you answers. - Pablo Picasso
 - Sun Sep 22 07:00:04 2024 | Failure defeats losers, failure inspires winners - Robert T. Kiyosaki
+- Mon Sep 23 07:00:03 2024 | There are good and bad times, but our mood changes more often than our fortune. - Thomas Carlyle
