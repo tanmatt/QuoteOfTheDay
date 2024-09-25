@@ -1,5 +1,5 @@
 ### Quote of the day
-Everyday life is like programming, I guess. If you love something you can put beauty into it. - Donald Knuth
+Nothing good ever comes of violence. - Martin Luther
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -251,3 +251,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Sep 22 07:00:04 2024 | Failure defeats losers, failure inspires winners - Robert T. Kiyosaki
 - Mon Sep 23 07:00:03 2024 | There are good and bad times, but our mood changes more often than our fortune. - Thomas Carlyle
 - Tue Sep 24 07:00:04 2024 | Everyday life is like programming, I guess. If you love something you can put beauty into it. - Donald Knuth
+- Wed Sep 25 07:00:03 2024 | Nothing good ever comes of violence. - Martin Luther
