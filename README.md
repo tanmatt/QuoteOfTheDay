@@ -1,5 +1,5 @@
 ### Quote of the day
-Nothing good ever comes of violence. - Martin Luther
+The more I think about it, the more I realize there is nothing more artistic than to love others. - Vincent Van Gogh
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -252,3 +252,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Sep 23 07:00:03 2024 | There are good and bad times, but our mood changes more often than our fortune. - Thomas Carlyle
 - Tue Sep 24 07:00:04 2024 | Everyday life is like programming, I guess. If you love something you can put beauty into it. - Donald Knuth
 - Wed Sep 25 07:00:03 2024 | Nothing good ever comes of violence. - Martin Luther
+- Thu Sep 26 07:00:03 2024 | The more I think about it, the more I realize there is nothing more artistic than to love others. - Vincent Van Gogh
