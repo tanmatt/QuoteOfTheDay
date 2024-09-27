@@ -1,5 +1,5 @@
 ### Quote of the day
-The more I think about it, the more I realize there is nothing more artistic than to love others. - Vincent Van Gogh
+There are only two kinds of languages: the ones people complain about and the ones nobody uses. - Bjarne Stroustrup
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -253,3 +253,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Sep 24 07:00:04 2024 | Everyday life is like programming, I guess. If you love something you can put beauty into it. - Donald Knuth
 - Wed Sep 25 07:00:03 2024 | Nothing good ever comes of violence. - Martin Luther
 - Thu Sep 26 07:00:03 2024 | The more I think about it, the more I realize there is nothing more artistic than to love others. - Vincent Van Gogh
+- Fri Sep 27 07:00:03 2024 | There are only two kinds of languages: the ones people complain about and the ones nobody uses. - Bjarne Stroustrup
