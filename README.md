@@ -1,5 +1,5 @@
 ### Quote of the day
-There are only two kinds of languages: the ones people complain about and the ones nobody uses. - Bjarne Stroustrup
+All the forces in the world are not so powerful as an idea whose time has come. - Victor Hugo
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -254,3 +254,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Sep 25 07:00:03 2024 | Nothing good ever comes of violence. - Martin Luther
 - Thu Sep 26 07:00:03 2024 | The more I think about it, the more I realize there is nothing more artistic than to love others. - Vincent Van Gogh
 - Fri Sep 27 07:00:03 2024 | There are only two kinds of languages: the ones people complain about and the ones nobody uses. - Bjarne Stroustrup
+- Sat Sep 28 07:00:03 2024 | All the forces in the world are not so powerful as an idea whose time has come. - Victor Hugo
