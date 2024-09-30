@@ -1,5 +1,5 @@
 ### Quote of the day
-The older I grow the more I distrust the familiar doctrine that age brings wisdom. - H. L. Mencken
+It's a very strange thing, love. You can't get rid of it. If you try to give it out, you get more back. If you try to hang onto it, you lose it. - Warren Buffett
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -256,3 +256,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Sep 27 07:00:03 2024 | There are only two kinds of languages: the ones people complain about and the ones nobody uses. - Bjarne Stroustrup
 - Sat Sep 28 07:00:03 2024 | All the forces in the world are not so powerful as an idea whose time has come. - Victor Hugo
 - Sun Sep 29 07:00:04 2024 | The older I grow the more I distrust the familiar doctrine that age brings wisdom. - H. L. Mencken
+- Mon Sep 30 07:00:04 2024 | It's a very strange thing, love. You can't get rid of it. If you try to give it out, you get more back. If you try to hang onto it, you lose it. - Warren Buffett
