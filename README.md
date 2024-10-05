@@ -1,5 +1,5 @@
 ### Quote of the day
-Never let your schooling interfere with your education. - Mark Twain
+We innovate by starting with the customer and working backwards. That becomes the touchstone for how we invent. - Jeff Bezos
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -261,3 +261,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Oct  2 07:00:03 2024 | Of all that is good, sublimity is supreme. Succeeding is the coming together of all that is beautiful. Furtherance is the agreement of all that is just. Perseverance is the foundation of all actions. - Lao Tzu
 - Thu Oct  3 07:00:03 2024 | Who would not give up wit for power and beauty? - Mason Cooley
 - Fri Oct  4 07:00:03 2024 | Never let your schooling interfere with your education. - Mark Twain
+- Sat Oct  5 07:00:03 2024 | We innovate by starting with the customer and working backwards. That becomes the touchstone for how we invent. - Jeff Bezos
