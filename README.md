@@ -1,5 +1,5 @@
 ### Quote of the day
-We innovate by starting with the customer and working backwards. That becomes the touchstone for how we invent. - Jeff Bezos
+When people give you their money they tell you the truth. - Jason Fried
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -262,3 +262,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Oct  3 07:00:03 2024 | Who would not give up wit for power and beauty? - Mason Cooley
 - Fri Oct  4 07:00:03 2024 | Never let your schooling interfere with your education. - Mark Twain
 - Sat Oct  5 07:00:03 2024 | We innovate by starting with the customer and working backwards. That becomes the touchstone for how we invent. - Jeff Bezos
+- Sun Oct  6 07:00:04 2024 | When people give you their money they tell you the truth. - Jason Fried
