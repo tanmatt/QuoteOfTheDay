@@ -1,5 +1,5 @@
 ### Quote of the day
-When people give you their money they tell you the truth. - Jason Fried
+The desire to write grows with writing. - Desiderius Erasmus
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -263,3 +263,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Oct  4 07:00:03 2024 | Never let your schooling interfere with your education. - Mark Twain
 - Sat Oct  5 07:00:03 2024 | We innovate by starting with the customer and working backwards. That becomes the touchstone for how we invent. - Jeff Bezos
 - Sun Oct  6 07:00:04 2024 | When people give you their money they tell you the truth. - Jason Fried
+- Mon Oct  7 07:00:06 2024 | The desire to write grows with writing. - Desiderius Erasmus
