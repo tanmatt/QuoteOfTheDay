@@ -1,5 +1,5 @@
 ### Quote of the day
-The desire to write grows with writing. - Desiderius Erasmus
+In a disordered mind, as in a disordered body, soundness of health is impossible. - Marcus Tullius Cicero
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -264,3 +264,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Oct  5 07:00:03 2024 | We innovate by starting with the customer and working backwards. That becomes the touchstone for how we invent. - Jeff Bezos
 - Sun Oct  6 07:00:04 2024 | When people give you their money they tell you the truth. - Jason Fried
 - Mon Oct  7 07:00:06 2024 | The desire to write grows with writing. - Desiderius Erasmus
+- Tue Oct  8 07:00:04 2024 | In a disordered mind, as in a disordered body, soundness of health is impossible. - Marcus Tullius Cicero
