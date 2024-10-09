@@ -1,5 +1,5 @@
 ### Quote of the day
-In a disordered mind, as in a disordered body, soundness of health is impossible. - Marcus Tullius Cicero
+We need to be the change we wish to see in the world. - Mohandas Gandhi
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -265,3 +265,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Oct  6 07:00:04 2024 | When people give you their money they tell you the truth. - Jason Fried
 - Mon Oct  7 07:00:06 2024 | The desire to write grows with writing. - Desiderius Erasmus
 - Tue Oct  8 07:00:04 2024 | In a disordered mind, as in a disordered body, soundness of health is impossible. - Marcus Tullius Cicero
+- Wed Oct  9 07:00:07 2024 | We need to be the change we wish to see in the world. - Mohandas Gandhi
