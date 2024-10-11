@@ -1,5 +1,5 @@
 ### Quote of the day
-There are 2 things that will bring you success in life: 1) Don't tell everyone everything you know. - Anonymous
+The purpose of our lives is to be happy. - Dalai Lama
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -267,3 +267,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Oct  8 07:00:04 2024 | In a disordered mind, as in a disordered body, soundness of health is impossible. - Marcus Tullius Cicero
 - Wed Oct  9 07:00:07 2024 | We need to be the change we wish to see in the world. - Mohandas Gandhi
 - Thu Oct 10 07:00:04 2024 | There are 2 things that will bring you success in life: 1) Don't tell everyone everything you know. - Anonymous
+- Fri Oct 11 07:00:06 2024 | The purpose of our lives is to be happy. - Dalai Lama
