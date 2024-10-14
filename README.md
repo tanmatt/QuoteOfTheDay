@@ -1,5 +1,5 @@
 ### Quote of the day
-Nothing is impossible. - Test-R199
+The stone age came to an end not for lack of stones. And the oil age will come to an end not for lack of oil. - Sheikh Yamani
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -270,3 +270,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Oct 11 07:00:06 2024 | The purpose of our lives is to be happy. - Dalai Lama
 - Sat Oct 12 07:00:07 2024 | The only thing that could spoil a day was people. People were always the limiters of happiness except for the very few that were as good as spring itself. - Ernest Hemingway
 - Sun Oct 13 07:00:07 2024 | Nothing is impossible. - Test-R199
+- Mon Oct 14 07:00:07 2024 | The stone age came to an end not for lack of stones. And the oil age will come to an end not for lack of oil. - Sheikh Yamani
