@@ -1,5 +1,5 @@
 ### Quote of the day
-Be true to your work, your word, and your friend. - Henry David Thoreau
+A positive attitude gives you power over your circumstances instead of circumstances having power over you. - Joyce Meyer
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -273,3 +273,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Oct 14 07:00:07 2024 | The stone age came to an end not for lack of stones. And the oil age will come to an end not for lack of oil. - Sheikh Yamani
 - Tue Oct 15 07:00:07 2024 | I have great hopes that we shall love each other all our lives as much as if we had never married at all. - Lord Byron
 - Wed Oct 16 07:00:06 2024 | Be true to your work, your word, and your friend. - Henry David Thoreau
+- Thu Oct 17 07:00:06 2024 | A positive attitude gives you power over your circumstances instead of circumstances having power over you. - Joyce Meyer
