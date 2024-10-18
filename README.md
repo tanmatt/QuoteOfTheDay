@@ -1,5 +1,5 @@
 ### Quote of the day
-A positive attitude gives you power over your circumstances instead of circumstances having power over you. - Joyce Meyer
+Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success. - Dale Carnegie
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -274,3 +274,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Oct 15 07:00:07 2024 | I have great hopes that we shall love each other all our lives as much as if we had never married at all. - Lord Byron
 - Wed Oct 16 07:00:06 2024 | Be true to your work, your word, and your friend. - Henry David Thoreau
 - Thu Oct 17 07:00:06 2024 | A positive attitude gives you power over your circumstances instead of circumstances having power over you. - Joyce Meyer
+- Fri Oct 18 07:00:07 2024 | Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success. - Dale Carnegie
