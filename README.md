@@ -1,5 +1,5 @@
 ### Quote of the day
-We know how we were born, but know not how we will die - Giovanni Morassutti 
+Success is the child of audacity. - Benjamin Disraeli
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -277,3 +277,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Fri Oct 18 07:00:07 2024 | Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success. - Dale Carnegie
 - Sat Oct 19 07:00:06 2024 | Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another? - Thomas Jefferson
 - Sun Oct 20 07:00:07 2024 | We know how we were born, but know not how we will die - Giovanni Morassutti 
+- Mon Oct 21 07:00:06 2024 | Success is the child of audacity. - Benjamin Disraeli
