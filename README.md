@@ -1,5 +1,5 @@
 ### Quote of the day
-Success is the child of audacity. - Benjamin Disraeli
+A girl should be two things: classy and fabulous. - Coco Chanel
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -278,3 +278,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Oct 19 07:00:06 2024 | Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another? - Thomas Jefferson
 - Sun Oct 20 07:00:07 2024 | We know how we were born, but know not how we will die - Giovanni Morassutti 
 - Mon Oct 21 07:00:06 2024 | Success is the child of audacity. - Benjamin Disraeli
+- Tue Oct 22 07:00:07 2024 | A girl should be two things: classy and fabulous. - Coco Chanel
