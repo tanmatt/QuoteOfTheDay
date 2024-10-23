@@ -1,5 +1,5 @@
 ### Quote of the day
-A girl should be two things: classy and fabulous. - Coco Chanel
+Darkness cannot drive out darkness only light can do that. Hate cannot drive out hate only love can do that. - Martin Luther King, Jr.
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -279,3 +279,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sun Oct 20 07:00:07 2024 | We know how we were born, but know not how we will die - Giovanni Morassutti 
 - Mon Oct 21 07:00:06 2024 | Success is the child of audacity. - Benjamin Disraeli
 - Tue Oct 22 07:00:07 2024 | A girl should be two things: classy and fabulous. - Coco Chanel
+- Wed Oct 23 07:00:06 2024 | Darkness cannot drive out darkness only light can do that. Hate cannot drive out hate only love can do that. - Martin Luther King, Jr.
