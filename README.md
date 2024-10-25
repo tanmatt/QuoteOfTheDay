@@ -1,5 +1,5 @@
 ### Quote of the day
-Be kind whenever possible. It is always possible. - Nag R1
+Democracy is the art and science of running the circus from the monkey cage. - H. L. Mencken
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -281,3 +281,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Oct 22 07:00:07 2024 | A girl should be two things: classy and fabulous. - Coco Chanel
 - Wed Oct 23 07:00:06 2024 | Darkness cannot drive out darkness only light can do that. Hate cannot drive out hate only love can do that. - Martin Luther King, Jr.
 - Thu Oct 24 07:00:07 2024 | Be kind whenever possible. It is always possible. - Nag R1
+- Fri Oct 25 07:00:08 2024 | Democracy is the art and science of running the circus from the monkey cage. - H. L. Mencken
