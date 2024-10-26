@@ -1,5 +1,5 @@
 ### Quote of the day
-Democracy is the art and science of running the circus from the monkey cage. - H. L. Mencken
+Put not your trust in money, but put your money in trust. - Oliver Wendell Holmes
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -282,3 +282,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Oct 23 07:00:06 2024 | Darkness cannot drive out darkness only light can do that. Hate cannot drive out hate only love can do that. - Martin Luther King, Jr.
 - Thu Oct 24 07:00:07 2024 | Be kind whenever possible. It is always possible. - Nag R1
 - Fri Oct 25 07:00:08 2024 | Democracy is the art and science of running the circus from the monkey cage. - H. L. Mencken
+- Sat Oct 26 07:00:07 2024 | Put not your trust in money, but put your money in trust. - Oliver Wendell Holmes
