@@ -1,5 +1,5 @@
 ### Quote of the day
-Put not your trust in money, but put your money in trust. - Oliver Wendell Holmes
+Belief is the death of intelligence. - Robert Anton Wilson
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -283,3 +283,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Thu Oct 24 07:00:07 2024 | Be kind whenever possible. It is always possible. - Nag R1
 - Fri Oct 25 07:00:08 2024 | Democracy is the art and science of running the circus from the monkey cage. - H. L. Mencken
 - Sat Oct 26 07:00:07 2024 | Put not your trust in money, but put your money in trust. - Oliver Wendell Holmes
+- Sun Oct 27 07:00:07 2024 | Belief is the death of intelligence. - Robert Anton Wilson
