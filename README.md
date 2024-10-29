@@ -1,5 +1,5 @@
 ### Quote of the day
-Television it will keep your a-s wishin' forever. - Ice Cube
+I'd rather entrust the government of the United States to the first 400 people listed in the Boston telephone directory than to the faculty of Harvard University. - William F. Buckley, Jr.
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -285,3 +285,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Sat Oct 26 07:00:07 2024 | Put not your trust in money, but put your money in trust. - Oliver Wendell Holmes
 - Sun Oct 27 07:00:07 2024 | Belief is the death of intelligence. - Robert Anton Wilson
 - Mon Oct 28 07:00:06 2024 | Television it will keep your a-s wishin' forever. - Ice Cube
+- Tue Oct 29 07:00:07 2024 | I'd rather entrust the government of the United States to the first 400 people listed in the Boston telephone directory than to the faculty of Harvard University. - William F. Buckley, Jr.
