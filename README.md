@@ -1,5 +1,5 @@
 ### Quote of the day
-In communications, familiarity breeds apathy. - William Bernbach
+No speech can stain what is noble by nature. - Sophocles
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -287,3 +287,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Mon Oct 28 07:00:06 2024 | Television it will keep your a-s wishin' forever. - Ice Cube
 - Tue Oct 29 07:00:07 2024 | I'd rather entrust the government of the United States to the first 400 people listed in the Boston telephone directory than to the faculty of Harvard University. - William F. Buckley, Jr.
 - Wed Oct 30 07:00:06 2024 | In communications, familiarity breeds apathy. - William Bernbach
+- Thu Oct 31 07:00:07 2024 | No speech can stain what is noble by nature. - Sophocles
