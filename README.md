@@ -1,5 +1,5 @@
 ### Quote of the day
-No speech can stain what is noble by nature. - Sophocles
+Never let your schooling interfere with your education. - Mark Twain
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -288,3 +288,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Tue Oct 29 07:00:07 2024 | I'd rather entrust the government of the United States to the first 400 people listed in the Boston telephone directory than to the faculty of Harvard University. - William F. Buckley, Jr.
 - Wed Oct 30 07:00:06 2024 | In communications, familiarity breeds apathy. - William Bernbach
 - Thu Oct 31 07:00:07 2024 | No speech can stain what is noble by nature. - Sophocles
+- Fri Nov  1 07:00:07 2024 | Never let your schooling interfere with your education. - Mark Twain
