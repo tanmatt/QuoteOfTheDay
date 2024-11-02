@@ -1,5 +1,5 @@
 ### Quote of the day
-Never let your schooling interfere with your education. - Mark Twain
+When anger rises, think of the consequences. - Confucius
 
 ### About the project
 Just a fun project to grab a random quote of the day everyday.
@@ -289,3 +289,4 @@ Just a fun project to grab a random quote of the day everyday.
 - Wed Oct 30 07:00:06 2024 | In communications, familiarity breeds apathy. - William Bernbach
 - Thu Oct 31 07:00:07 2024 | No speech can stain what is noble by nature. - Sophocles
 - Fri Nov  1 07:00:07 2024 | Never let your schooling interfere with your education. - Mark Twain
+- Sat Nov  2 07:00:07 2024 | When anger rises, think of the consequences. - Confucius
